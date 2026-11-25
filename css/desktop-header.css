@@ -1,0 +1,147 @@
+.desktop-site-header {
+  position: relative;
+  z-index: 5;
+  border-top: 1px solid #e6e6e6;
+  background: #ffffff;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.14);
+}
+
+.desktop-header-inner {
+  display: flex;
+  width: min(75vw, 1440px);
+  min-height: 76px;
+  align-items: center;
+  gap: clamp(1.25rem, 3vw, 3rem);
+  margin: 0 auto;
+  padding: 8px 4px;
+}
+
+.desktop-brands {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 12px;
+}
+
+.desktop-brand {
+  display: block;
+  line-height: 0;
+}
+
+.desktop-brand img {
+  display: block;
+  height: 48px;
+  object-fit: contain;
+}
+
+.desktop-brand-avalpay {
+  width: 144px;
+  height: 48px;
+  overflow: hidden;
+}
+
+.desktop-brand-avalpay img {
+  width: 250px;
+  max-width: none;
+  height: auto;
+  transform: translate(-60px, -42px);
+}
+
+.desktop-brand-aval img {
+  width: 138px;
+}
+
+.desktop-navigation {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+  gap: clamp(0.75rem, 1.8vw, 2rem);
+}
+
+.desktop-navigation a {
+  color: #071b3a;
+  font-size: 1rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.desktop-navigation a[aria-current="page"],
+.desktop-navigation a:hover {
+  color: #1687ca;
+}
+
+.desktop-navigation a:focus-visible {
+  outline: 2px solid #62b9e8;
+  outline-offset: 4px;
+}
+
+.desktop-navigation .desktop-login {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.desktop-login svg {
+  width: 15px;
+  height: 15px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.8;
+}
+
+.desktop-navigation .desktop-register-button {
+  display: inline-flex;
+  min-width: 170px;
+  min-height: 54px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #071b3a;
+  border-radius: 999px;
+  font-weight: 700;
+}
+
+@media (min-width: 1201px) and (max-width: 1600px) {
+  .desktop-header-inner {
+    min-height: 56px;
+    gap: 16px;
+    padding: 6px 4px;
+  }
+
+  .desktop-brand-avalpay {
+    width: 115px;
+    height: 38px;
+  }
+
+  .desktop-brand-avalpay img {
+    width: 200px;
+    transform: translate(-48px, -33.6px);
+  }
+
+  .desktop-brand-aval img {
+    width: 110px;
+    height: 38px;
+  }
+
+  .desktop-brands,
+  .desktop-navigation {
+    gap: 10px;
+  }
+
+  .desktop-navigation a {
+    font-size: 0.9rem;
+  }
+
+  .desktop-navigation .desktop-register-button {
+    min-width: 136px;
+    min-height: 44px;
+  }
+}
+
+@media (max-width: 1400px) {
+  .desktop-site-header {
+    display: none;
+  }
+}

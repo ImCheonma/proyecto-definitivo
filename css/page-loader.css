@@ -1,0 +1,82 @@
+.page-loader {
+  position: fixed;
+  z-index: 9999;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  max-height: none;
+  display: grid;
+  place-items: center;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: inherit;
+  background: rgba(44, 76, 115, 0.5);
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 180ms ease, visibility 180ms ease;
+}
+
+.page-loader::backdrop {
+  background: transparent;
+}
+
+.page-loader:not([open]) {
+  display: none;
+}
+
+.page-loader.is-hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.page-loader-dots {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.page-loader-dot {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  animation: page-loader-bounce 720ms ease-in-out infinite;
+}
+
+.page-loader-dot:nth-child(1) {
+  background: #071b3a;
+}
+
+.page-loader-dot:nth-child(2) {
+  background: #e52d38;
+  animation-delay: 110ms;
+}
+
+.page-loader-dot:nth-child(3) {
+  background: #62b9e8;
+  animation-delay: 220ms;
+}
+
+.page-loader-dot:nth-child(4) {
+  background: #329648;
+  animation-delay: 330ms;
+}
+
+@keyframes page-loader-bounce {
+  0%, 60%, 100% {
+    transform: translateY(0);
+  }
+  30% {
+    transform: translateY(-18px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page-loader,
+  .page-loader-dot {
+    transition: none;
+    animation: none;
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "rappipay-telegram-monitor",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Monitor de correos RappiPay y bot de Telegram",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "imap": "^0.8.19",
+    "mailparser": "^3.7.5",
+    "mysql2": "^3.24.6"
+  }
+}

@@ -1,0 +1,966 @@
+
+  /* Reseteo y estilos base */
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffffff;
+    color: #071b3a;
+  }
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+
+  .home-top-content {
+    width: min(75vw, 1440px);
+    margin: 0 auto;
+    padding: 0 18px;
+  }
+  .home-top-content .section-header {
+    margin-right: -13px;
+    margin-left: -13px;
+  }
+  .home-top-content .cards-grid {
+    margin-right: -8px;
+    margin-left: -8px;
+  }
+  .home-middle-content {
+    width: min(75vw, 1440px);
+    margin: 0 auto;
+  }
+  .home-middle-content .reminder-section,
+  .home-middle-content .registration-section,
+  .home-middle-content .payment-methods-section {
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  /* Puntos de colores superiores (Como en la imagen) */
+  .brand-dots {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 1.5rem;
+  }
+  .dot { width: 16px; height: 16px; border-radius: 50%; }
+  .dot.blue { background-color: #071b3a; }
+  .dot.red { background-color: #e52d38; }
+  .dot.lightblue { background-color: #62b9e8; }
+  .dot.green { background-color: #329648; }
+
+  /* Sección del Buscador */
+  .search-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
+    flex-wrap: wrap;
+  }
+  .search-section h1 {
+    font-size: clamp(2rem, 2.5vw, 2.5rem);
+    font-weight: 700;
+    color: #071b3a;
+  }
+  .search-controls {
+    display: flex;
+    flex: 1;
+    max-width: 860px;
+    align-items: center;
+    gap: 1.25rem;
+  }
+  .search-bar {
+    display: flex;
+    flex: 1;
+    min-width: 0;
+    height: 54px;
+    gap: 0.85rem;
+    background: #fff;
+    border: 1px solid #b8b8b8;
+    border-radius: 30px;
+    padding: 0 1.25rem;
+    align-items: center;
+  }
+  .search-bar svg {
+    width: 20px;
+    height: 20px;
+    flex: 0 0 20px;
+    fill: none;
+    stroke: #536176;
+    stroke-linecap: round;
+    stroke-width: 1.8;
+  }
+  .search-bar input {
+    flex: 1;
+    width: 100%;
+    min-width: 0;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    color: #4a5568;
+  }
+  .search-bar input::placeholder {
+    color: #435b7d;
+    opacity: 1;
+  }
+  .search-bar:focus-within {
+    border-color: #62b9e8;
+    box-shadow: 0 0 0 2px rgba(98, 185, 232, 0.2);
+  }
+  .search-button {
+    background-color: #68b7e8;
+    color: #071b3a;
+    border: none;
+    min-width: 140px;
+    min-height: 54px;
+    padding: 0.6rem 1.7rem;
+    border-radius: 25px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  .search-button:hover { background-color: #52a9df; }
+
+  @media (min-width: 1201px) and (max-width: 1600px) {
+    .search-section h1 {
+      font-size: clamp(1.6rem, 2.1vw, 2rem);
+    }
+    .search-controls {
+      max-width: 688px;
+      gap: 1rem;
+    }
+    .search-bar {
+      height: 43px;
+      gap: 0.68rem;
+      padding: 0 1rem;
+    }
+    .search-bar input {
+      font-size: 0.9rem;
+    }
+    .search-button {
+      min-width: 112px;
+      min-height: 43px;
+      padding: 0.5rem 1.3rem;
+    }
+  }
+
+  /* Sección Pagos Rápidos */
+  .section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+  }
+  .section-header h2 {
+    font-size: 1.5rem;
+    color: #071b3a;
+  }
+  .section-header a {
+    color: #1687ca;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  /* Tarjetas de pago */
+  .cards-grid {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 4rem;
+    flex-wrap: wrap;
+  }
+  .card {
+    background: #ffffff;
+    border-radius: 22px;
+    padding: 2rem 1rem;
+    text-align: center;
+    flex: 1;
+    min-width: 160px;
+    cursor: pointer;
+    box-shadow: 0 10px 24px rgba(0,0,0,0.1);
+    border: 0;
+    position: relative;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  a.card {
+    color: inherit;
+    text-decoration: none;
+  }
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+  }
+  .card .icon {
+    margin-bottom: 1.2rem;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .card .icon img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+  }
+  .card .icon-featured img {
+    width: 60px;
+    height: 60px;
+  }
+  .card h3 {
+    font-size: 1.05rem;
+    color: #68b7e8;
+    font-weight: 600;
+    line-height: 1.3;
+  }
+  
+  /* Etiqueta "Nuevo" */
+  .badge-new {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #ff6500;
+    color: white;
+    font-size: 0.75rem;
+    font-weight: bold;
+    padding: 3px 8px;
+    border-radius: 10px;
+  }
+
+  /* Espacio para el anuncio enlazado */
+  .ad-banner {
+    margin: 1rem 0 4rem;
+  }
+  .ad-banner a {
+    display: block;
+    width: 100%;
+  }
+  .ad-banner img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 24px;
+  }
+
+  .benefits-section {
+    display: grid;
+    grid-template-columns: 550px minmax(0, 1fr);
+    gap: 68px;
+    align-items: center;
+    margin: 4rem auto 0;
+  }
+  .benefits-images {
+    display: grid;
+    grid-template-columns: 263px 263px;
+    grid-template-rows: 208px 191px;
+    column-gap: 24px;
+    row-gap: 20px;
+  }
+  .benefits-images img {
+    object-fit: cover;
+    border-radius: 24px;
+  }
+  .benefits-images .benefits-image-main {
+    grid-row: 1 / 3;
+    width: 263px;
+    height: 419px;
+  }
+  .benefits-images .benefits-image-top {
+    width: 263px;
+    height: 188px;
+    margin-top: 20px;
+  }
+  .benefits-images .benefits-image-bottom {
+    width: 175px;
+    height: 174px;
+  }
+  .benefits-text h2 {
+    font-size: 2.5rem;
+    color: #071b3a;
+    margin-bottom: 2rem;
+  }
+  .benefits-text .brand-dots {
+    gap: 12px;
+    margin-bottom: 2rem;
+  }
+  .benefits-text .brand-dots .dot {
+    width: 19px;
+    height: 19px;
+  }
+  .benefits-text h3 {
+    color: #071b3a;
+    font-size: 1.9rem;
+    margin-bottom: 1.4rem;
+  }
+  .benefits-text p {
+    color: #071b3a;
+    font-size: 1.3rem;
+    line-height: 1.4;
+  }
+  .benefits-controls {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 275px;
+    margin-top: 4.7rem;
+  }
+  .benefits-arrow {
+    display: grid;
+    place-items: center;
+    width: 38px;
+    height: 38px;
+    border: 0;
+    border-radius: 50%;
+    background: #071b3a;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 2rem;
+    line-height: 1;
+  }
+  .benefits-pagination {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+  }
+  .benefits-pagination button {
+    appearance: none;
+    width: 13px;
+    height: 13px;
+    border: 1px solid #071b3a;
+    border-radius: 50%;
+    padding: 0;
+    background: transparent;
+    cursor: pointer;
+  }
+  .benefits-pagination .active,
+  .benefits-pagination button[aria-current="true"] {
+    background: #071b3a;
+  }
+
+  @media (min-width: 1400px) {
+    .benefits-section {
+      grid-template-columns: 688px minmax(0, 1fr);
+      gap: 85px;
+      margin-top: 5rem;
+    }
+    .benefits-images {
+      grid-template-columns: 329px 329px;
+      grid-template-rows: 260px 239px;
+      column-gap: 30px;
+      row-gap: 25px;
+    }
+    .benefits-images .benefits-image-main {
+      width: 329px;
+      height: 524px;
+    }
+    .benefits-images .benefits-image-top {
+      width: 329px;
+      height: 235px;
+      margin-top: 25px;
+    }
+    .benefits-images .benefits-image-bottom {
+      width: 219px;
+      height: 218px;
+    }
+    .benefits-text h2 {
+      font-size: 3.125rem;
+      margin-bottom: 2.5rem;
+    }
+    .benefits-text .brand-dots {
+      gap: 15px;
+      margin-bottom: 2.5rem;
+    }
+    .benefits-text .brand-dots .dot {
+      width: 24px;
+      height: 24px;
+    }
+    .benefits-text h3 {
+      font-size: 2.375rem;
+      margin-bottom: 1.75rem;
+    }
+    .benefits-text p {
+      font-size: 1.625rem;
+    }
+    .benefits-controls {
+      width: 344px;
+      margin-top: 5.875rem;
+    }
+    .benefits-arrow {
+      width: 48px;
+      height: 48px;
+      font-size: 2.5rem;
+    }
+    .benefits-pagination {
+      gap: 16px;
+    }
+    .benefits-pagination button {
+      width: 16px;
+      height: 16px;
+    }
+  }
+
+  .carousel-slide-in-next {
+    animation: carousel-slide-from-right 380ms ease-out both;
+  }
+  .carousel-slide-in-previous {
+    animation: carousel-slide-from-left 380ms ease-out both;
+  }
+  @keyframes carousel-slide-from-right {
+    from {
+      opacity: 0.35;
+      transform: translateX(48px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  @keyframes carousel-slide-from-left {
+    from {
+      opacity: 0.35;
+      transform: translateX(-48px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  .reminder-section {
+    width: calc(100% + 3rem);
+    margin: 5rem 0 0 -1.5rem;
+    padding: 4rem 2rem 2rem;
+    background: #eff9ff;
+  }
+  .reminder-carousel {
+    width: min(100%, 1340px);
+    margin: 0 auto;
+  }
+  .reminder-slide {
+    position: relative;
+    display: flex;
+    align-items: center;
+    min-height: 400px;
+    padding: 3.5rem 4rem 3.5rem 15.5%;
+    border-radius: 48px;
+    background: #f4fbff;
+    box-shadow: 0 14px 28px rgba(7, 27, 58, 0.1);
+  }
+  .reminder-copy {
+    position: relative;
+    z-index: 1;
+    width: 52%;
+  }
+  .reminder-copy h2 {
+    max-width: 470px;
+    margin-bottom: 2rem;
+    color: #071b3a;
+    font-size: clamp(2rem, 3.2vw, 3rem);
+    line-height: 1.2;
+  }
+  .reminder-copy p {
+    max-width: 440px;
+    margin-bottom: 1.7rem;
+    color: #344967;
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  .reminder-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 145px;
+    min-height: 54px;
+    padding: 0.8rem 1.5rem;
+    border: 1px solid #071b3a;
+    border-radius: 30px;
+    color: #071b3a;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .reminder-link:hover {
+    background: #071b3a;
+    color: #ffffff;
+  }
+  .reminder-image {
+    position: absolute;
+    right: 4%;
+    bottom: 0;
+    width: 52%;
+    height: 120%;
+    object-fit: contain;
+    object-position: center bottom;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .carousel-slide-in-next,
+    .carousel-slide-in-previous {
+      animation-duration: 1ms;
+    }
+  }
+  .reminder-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin: 1.5rem auto 0;
+  }
+  .reminder-arrow {
+    display: grid;
+    width: 38px;
+    height: 38px;
+    place-items: center;
+    border: 0;
+    border-radius: 50%;
+    background: #071b3a;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 2rem;
+    line-height: 1;
+  }
+  .reminder-pagination {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .reminder-pagination button {
+    width: 13px;
+    height: 13px;
+    padding: 0;
+    border: 1px solid #071b3a;
+    border-radius: 50%;
+    background: transparent;
+    cursor: pointer;
+  }
+  .reminder-pagination button[aria-current="true"] {
+    background: #071b3a;
+  }
+
+  .registration-section {
+    width: calc(100% + 3rem);
+    margin-left: -1.5rem;
+    padding: 8rem 1.5rem 7rem;
+    background: #eff9ff;
+    text-align: center;
+  }
+  .registration-section h2 {
+    margin-bottom: 3rem;
+    color: #071b3a;
+    font-size: clamp(2rem, 3.2vw, 3rem);
+    line-height: 1.2;
+  }
+  .registration-section p {
+    margin-bottom: 2.5rem;
+    color: #071b3a;
+    font-size: clamp(1.25rem, 2vw, 1.8rem);
+    font-weight: 700;
+  }
+  .registration-button {
+    display: inline-flex;
+    min-width: 165px;
+    min-height: 54px;
+    align-items: center;
+    justify-content: center;
+    padding: 0.8rem 1.5rem;
+    border: 1px solid #071b3a;
+    border-radius: 30px;
+    color: #071b3a;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .registration-button:hover {
+    background: #071b3a;
+    color: #ffffff;
+  }
+
+  .payment-methods-section {
+    width: calc(100% + 3rem);
+    margin-left: -1.5rem;
+    padding: 3rem 3.75rem 5rem;
+    background: #ffffff;
+  }
+  .payment-methods-inner {
+    width: min(100%, 1490px);
+    margin: 0 auto;
+  }
+  .payment-methods-section h2 {
+    margin-bottom: 1.25rem;
+    color: #071b3a;
+    font-size: 2rem;
+    text-align: center;
+  }
+  .payment-methods-intro {
+    margin-bottom: 2rem;
+    color: #344967;
+    font-size: 1rem;
+    text-align: center;
+  }
+  .payment-methods-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(280px, 380px));
+    justify-content: space-between;
+    gap: 4rem 2rem;
+  }
+  .payment-method-card {
+    min-height: 274px;
+    padding: 1.5rem 2rem;
+    border-radius: 26px;
+    background: #ffffff;
+    box-shadow: 0 7px 12px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  .payment-method-logo {
+    display: grid;
+    height: 66px;
+    place-items: center;
+    margin-bottom: 1rem;
+  }
+  .payment-method-logo img {
+    display: block;
+    max-width: 100%;
+    max-height: 66px;
+    object-fit: contain;
+  }
+  .payment-method-card h3 {
+    margin-bottom: 1.5rem;
+    color: #071b3a;
+    font-size: 1.55rem;
+  }
+  .payment-method-card p {
+    max-width: 300px;
+    margin: 0 auto;
+    color: #263b59;
+    font-size: 1rem;
+    line-height: 1.45;
+  }
+  .payment-method-card:last-child {
+    grid-column: 2;
+  }
+
+  @media (max-width: 1000px) {
+    .benefits-section {
+      grid-template-columns: minmax(0, 1fr);
+      justify-items: center;
+      gap: 3rem;
+    }
+    .benefits-text {
+      width: min(100%, 550px);
+    }
+    .payment-methods-grid {
+      grid-template-columns: repeat(2, minmax(0, 380px));
+      justify-content: center;
+      gap: 2rem;
+    }
+    .payment-method-card:last-child {
+      grid-column: auto;
+    }
+  }
+
+  @media (max-width: 620px) {
+    .search-section {
+      align-items: stretch;
+    }
+    .search-controls {
+      flex: 1 1 100%;
+      max-width: none;
+      gap: 0.75rem;
+    }
+    .search-button {
+      padding: 0.6rem 1.25rem;
+    }
+    .benefits-images {
+      width: 100%;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      grid-template-rows: minmax(0, 1fr) minmax(0, 0.85fr);
+      column-gap: 12px;
+      row-gap: 12px;
+    }
+    .benefits-images .benefits-image-main {
+      width: 100%;
+      height: 100%;
+      min-height: 280px;
+    }
+    .benefits-images .benefits-image-top {
+      width: 100%;
+      height: 100%;
+      margin-top: 12px;
+    }
+    .benefits-images .benefits-image-bottom {
+      width: 75%;
+      height: 100%;
+      min-height: 120px;
+    }
+    .benefits-controls {
+      width: min(100%, 275px);
+    }
+    .payment-methods-section {
+      padding: 3rem 1.25rem;
+    }
+    .payment-methods-grid {
+      grid-template-columns: minmax(0, 380px);
+      justify-content: center;
+      gap: 1.5rem;
+    }
+    .reminder-section {
+      padding: 3rem 1rem 2rem;
+    }
+    .reminder-slide {
+      min-height: 340px;
+      padding: 2.5rem;
+      border-radius: 32px;
+    }
+    .reminder-image {
+      right: 1%;
+      width: 40%;
+    }
+    .reminder-copy {
+      width: 55%;
+    }
+  }
+
+  @media (max-width: 620px) {
+    .registration-section {
+      padding: 6rem 1.25rem 5rem;
+    }
+    .registration-section h2 {
+      margin-bottom: 2rem;
+    }
+    .registration-section p {
+      margin-bottom: 2rem;
+    }
+    .reminder-slide {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 1rem;
+      min-height: 0;
+      padding: 2rem 1.5rem 0;
+    }
+    .reminder-copy {
+      width: 100%;
+    }
+    .reminder-copy h2 {
+      margin-bottom: 1rem;
+      font-size: 2rem;
+    }
+    .reminder-copy p {
+      margin-bottom: 1rem;
+      font-size: 1rem;
+    }
+    .reminder-image {
+      position: relative;
+      right: auto;
+      bottom: auto;
+      align-self: center;
+      width: 100%;
+      height: 240px;
+      margin-top: 0.5rem;
+    }
+    .reminder-controls {
+      gap: 1.5rem;
+    }
+  }
+
+  .site-footer {
+    position: relative;
+    border-top: 1px solid #e8ebef;
+    background: #ffffff;
+    color: #344967;
+  }
+  .footer-inner {
+    width: min(75vw, 1440px);
+    margin: 0 auto;
+    padding: 34px 24px 28px;
+  }
+  .footer-partners {
+    display: grid;
+    min-height: 56px;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+  }
+  .footer-aval-partners {
+    display: flex;
+    grid-column: 2;
+    align-items: center;
+    gap: 14px;
+  }
+  .footer-bank-logos {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .footer-bank-logos img {
+    display: block;
+    width: 42px;
+    height: 42px;
+    padding: 4px;
+    border-radius: 4px;
+    background: #f7f8fa;
+    object-fit: contain;
+  }
+  .footer-partner-divider {
+    width: 1px;
+    height: 48px;
+    background: #c9d1db;
+  }
+  .footer-group-logo {
+    display: block;
+    width: 140px;
+    max-height: 52px;
+    object-fit: contain;
+  }
+  .footer-norton-logo {
+    display: block;
+    width: 78px;
+    height: auto;
+    grid-column: 3;
+    justify-self: end;
+    object-fit: contain;
+  }
+  .footer-contact {
+    display: flex;
+    justify-content: center;
+    gap: 28px;
+    margin-top: 30px;
+    font-size: 0.94rem;
+  }
+  .footer-contact p {
+    margin: 0;
+  }
+  .footer-contact a {
+    color: #263b59;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .footer-contact a:hover,
+  .footer-links a:hover,
+  .footer-links button:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 28px;
+    margin-top: 32px;
+    font-size: 0.94rem;
+  }
+  .footer-links a,
+  .footer-links button {
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: #344967;
+    cursor: pointer;
+    font: inherit;
+    text-decoration: none;
+  }
+  .footer-supervision-badge {
+    position: fixed;
+    z-index: 4;
+    bottom: 12%;
+    left: 0;
+    width: 22px;
+    height: 174px;
+    object-fit: contain;
+  }
+  .footer-help-button {
+    position: fixed;
+    z-index: 6;
+    right: 20px;
+    bottom: 48px;
+    display: grid;
+    width: 48px;
+    height: 48px;
+    place-items: center;
+    border-radius: 50%;
+    background: #e52d38;
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1;
+    text-decoration: none;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.18);
+  }
+  .footer-help-button:hover {
+    background: #c91f2a;
+  }
+  .footer-help-button:focus-visible,
+  .footer-links a:focus-visible,
+  .footer-links button:focus-visible,
+  .footer-contact a:focus-visible {
+    outline: 2px solid #62b9e8;
+    outline-offset: 3px;
+  }
+
+  @media (max-width: 620px) {
+    .home-middle-content {
+      width: 100%;
+    }
+    .home-top-content {
+      width: 100%;
+      padding: 0;
+    }
+    .home-top-content .section-header,
+    .home-top-content .cards-grid {
+      margin-right: 0;
+      margin-left: 0;
+    }
+    .footer-inner {
+      width: 100%;
+      padding: 28px 18px 24px;
+    }
+    .footer-partners {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 16px;
+    }
+    .footer-aval-partners {
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      width: 100%;
+    }
+    .footer-bank-logos {
+      gap: 5px;
+    }
+    .footer-bank-logos img {
+      width: 38px;
+      height: 38px;
+    }
+    .footer-partner-divider {
+      height: 38px;
+    }
+    .footer-group-logo {
+      width: 112px;
+    }
+    .footer-norton-logo {
+      width: 74px;
+    }
+    .footer-contact,
+    .footer-links {
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      text-align: center;
+    }
+    .footer-contact {
+      margin-top: 24px;
+    }
+    .footer-links {
+      margin-top: 24px;
+    }
+    .footer-supervision-badge {
+      bottom: 10%;
+      width: 16px;
+      height: 128px;
+    }
+    .footer-help-button {
+      right: 14px;
+      bottom: 20px;
+      width: 44px;
+      height: 44px;
+    }
+  }
+

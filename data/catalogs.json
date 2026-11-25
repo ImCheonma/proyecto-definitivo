@@ -1,0 +1,2150 @@
+{
+  "categories": [
+    "servicios-publicos",
+    "obligaciones-aval"
+  ],
+  "services": [
+    {
+      "id": "servicios-publicos-0001",
+      "category": "servicios-publicos",
+      "name": "ASEO BOGOTA",
+      "provider": "ASEO BOGOTA",
+      "logo": "assets/images/ab.webp"
+    },
+    {
+      "id": "servicios-publicos-0002",
+      "category": "servicios-publicos",
+      "name": "MADIGAS INGENIEROS SA ESP",
+      "provider": "MADIGAS INGENIEROS SA ESP",
+      "logo": "assets/images/madigas.png"
+    },
+    {
+      "id": "servicios-publicos-0003",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO SERVICIO PUBLI TOCANCIPA",
+      "provider": "ACUEDUCTO SERVICIO PUBLI TOCANCIPA",
+      "logo": "assets/images/TOCANCIPA.jpg"
+    },
+    {
+      "id": "servicios-publicos-0004",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO EMPUMELGAR ESP RECAUDO",
+      "provider": "ACUEDUCTO EMPUMELGAR ESP RECAUDO",
+      "logo": "assets/images/EMPUMELGAR.jpg"
+    },
+    {
+      "id": "servicios-publicos-0005",
+      "category": "servicios-publicos",
+      "name": "EMCA ESP",
+      "provider": "EMCA ESP",
+      "logo": "assets/images/emca.webp"
+    },
+    {
+      "id": "servicios-publicos-0006",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO ESPA ACACIAS",
+      "provider": "ACUEDUCTO ESPA ACACIAS",
+      "logo": "assets/images/espa.png"
+    },
+    {
+      "id": "servicios-publicos-0007",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO AGUA VIVA SA ESP",
+      "provider": "ACUEDUCTO AGUA VIVA SA ESP",
+      "logo": "assets/images/aguaviva.webp"
+    },
+    {
+      "id": "servicios-publicos-0008",
+      "category": "servicios-publicos",
+      "name": "AGUAS DEL PARQUE ESP",
+      "provider": "AGUAS DEL PARQUE ESP",
+      "logo": "assets/images/aguasdelparque.jpg"
+    },
+    {
+      "id": "servicios-publicos-0009",
+      "category": "servicios-publicos",
+      "name": "RECAUDO DAGUAS SA ESP",
+      "provider": "RECAUDO DAGUAS SA ESP",
+      "logo": "assets/images/dagua.jpg"
+    },
+    {
+      "id": "servicios-publicos-0010",
+      "category": "servicios-publicos",
+      "name": "JUNTA DE ACCION COMUNAL DEL RETIRO CLL 12 Y 13",
+      "provider": "JUNTA DE ACCION COMUNAL DEL RETIRO CLL 12 Y 13",
+      "logo": "assets/images/ja.jpeg"
+    },
+    {
+      "id": "servicios-publicos-0011",
+      "category": "servicios-publicos",
+      "name": "ESSMAR ESP",
+      "provider": "ESSMAR ESP",
+      "logo": "assets/images/essmar.png"
+    },
+    {
+      "id": "servicios-publicos-0012",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO AGUAS DEL NORTE",
+      "provider": "ACUEDUCTO AGUAS DEL NORTE",
+      "logo": "assets/images/aguasdelnorte.webp"
+    },
+    {
+      "id": "servicios-publicos-0013",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO EMSERPLA ESP RECAUDO",
+      "provider": "ACUEDUCTO EMSERPLA ESP RECAUDO",
+      "logo": "assets/images/emsersopo.png"
+    },
+    {
+      "id": "servicios-publicos-0014",
+      "category": "servicios-publicos",
+      "name": "GLOBAL REDES OBRAS",
+      "provider": "GLOBAL REDES OBRAS",
+      "logo": "assets/images/global.jfif"
+    },
+    {
+      "id": "servicios-publicos-0015",
+      "category": "servicios-publicos",
+      "name": "EMPRESA SERVICIOS PUBLICOS AGUAZUL",
+      "provider": "EMPRESA SERVICIOS PUBLICOS AGUAZUL",
+      "logo": "assets/images/aguazul.png"
+    },
+    {
+      "id": "servicios-publicos-0016",
+      "category": "servicios-publicos",
+      "name": "ESP GUADUAS",
+      "provider": "ESP GUADUAS",
+      "logo": "assets/images/gota.jpg"
+    },
+    {
+      "id": "servicios-publicos-0017",
+      "category": "servicios-publicos",
+      "name": "Enel Recaudo Masivo Energia",
+      "provider": "Enel Recaudo Masivo Energia",
+      "logo": "assets/images/enel.png"
+    },
+    {
+      "id": "servicios-publicos-0018",
+      "category": "servicios-publicos",
+      "name": "URBASER SOACHA",
+      "provider": "URBASER SOACHA",
+      "logo": "assets/images/urbaser.png"
+    },
+    {
+      "id": "servicios-publicos-0019",
+      "category": "servicios-publicos",
+      "name": "RECAUDO EMSERTABIO",
+      "provider": "RECAUDO EMSERTABIO",
+      "logo": "assets/images/emsertabio.jpg"
+    },
+    {
+      "id": "servicios-publicos-0020",
+      "category": "servicios-publicos",
+      "name": "ESP Acueducto Guamo",
+      "provider": "ESP Acueducto Guamo",
+      "logo": "assets/images/espag.png"
+    },
+    {
+      "id": "servicios-publicos-0021",
+      "category": "servicios-publicos",
+      "name": "ENERGIA ELECTRICA EMEESA",
+      "provider": "ENERGIA ELECTRICA EMEESA",
+      "logo": "assets/images/emeesa.avif"
+    },
+    {
+      "id": "servicios-publicos-0022",
+      "category": "servicios-publicos",
+      "name": "ACUASER CALI",
+      "provider": "ACUASER CALI",
+      "logo": "assets/images/acuaser.avif"
+    },
+    {
+      "id": "servicios-publicos-0023",
+      "category": "servicios-publicos",
+      "name": "LA FUENTE SAS ESP",
+      "provider": "LA FUENTE SAS ESP",
+      "logo": "assets/images/lafuente.png"
+    },
+    {
+      "id": "servicios-publicos-0024",
+      "category": "servicios-publicos",
+      "name": "AGUAS DE CASTILLA SA ESP",
+      "provider": "AGUAS DE CASTILLA SA ESP",
+      "logo": "assets/images/decastilla.png"
+    },
+    {
+      "id": "servicios-publicos-0025",
+      "category": "servicios-publicos",
+      "name": "VANTI SA ESP GAS NATURAL",
+      "provider": "VANTI SA ESP GAS NATURAL",
+      "logo": "assets/images/GAS NATURAL CUNDIBOYACENSE SA.png"
+    },
+    {
+      "id": "servicios-publicos-0026",
+      "category": "servicios-publicos",
+      "name": "Bioagricola SA ESP",
+      "provider": "Bioagricola SA ESP",
+      "logo": "assets/images/bioagricola.png"
+    },
+    {
+      "id": "servicios-publicos-0027",
+      "category": "servicios-publicos",
+      "name": "EMPRESAS MUNICIPALES DE TIBASOSA",
+      "provider": "EMPRESAS MUNICIPALES DE TIBASOSA",
+      "logo": "assets/images/emt.png"
+    },
+    {
+      "id": "servicios-publicos-0028",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO EMPUNILO SERVICIOS PUBLI",
+      "provider": "ACUEDUCTO EMPUNILO SERVICIOS PUBLI",
+      "logo": "assets/images/Empunilo.png"
+    },
+    {
+      "id": "servicios-publicos-0029",
+      "category": "servicios-publicos",
+      "name": "ENEL MNR MM",
+      "provider": "ENEL MNR MM",
+      "logo": "assets/images/em.jpg"
+    },
+    {
+      "id": "servicios-publicos-0030",
+      "category": "servicios-publicos",
+      "name": "ENERGIA DE CASANARE ENERCA",
+      "provider": "ENERGIA DE CASANARE ENERCA",
+      "logo": "assets/images/enerca.png"
+    },
+    {
+      "id": "servicios-publicos-0031",
+      "category": "servicios-publicos",
+      "name": "ACUASUR SAS ESP",
+      "provider": "ACUASUR SAS ESP",
+      "logo": "assets/images/Acuasur.png"
+    },
+    {
+      "id": "servicios-publicos-0032",
+      "category": "servicios-publicos",
+      "name": "ACUABUITRERA CALI ESP",
+      "provider": "ACUABUITRERA CALI ESP",
+      "logo": "assets/images/Acuabuitrera.webp"
+    },
+    {
+      "id": "servicios-publicos-0033",
+      "category": "servicios-publicos",
+      "name": "ALUMBRADO RECAUDO CARTERA POPAYAN",
+      "provider": "ALUMBRADO RECAUDO CARTERA POPAYAN",
+      "logo": "assets/images/ALUMBRADO RECAUDO CORRIENTE POPAYAN.png"
+    },
+    {
+      "id": "servicios-publicos-0034",
+      "category": "servicios-publicos",
+      "name": "AGUAS DE CHINAUTA ESP FUSAGASUGA",
+      "provider": "AGUAS DE CHINAUTA ESP FUSAGASUGA",
+      "logo": "assets/images/aguaschinauta2.png"
+    },
+    {
+      "id": "servicios-publicos-0035",
+      "category": "servicios-publicos",
+      "name": "CIUDAD LIMPIA PUERTO TEJADA",
+      "provider": "CIUDAD LIMPIA PUERTO TEJADA",
+      "logo": "assets/images/ciudadlimpia.jpg"
+    },
+    {
+      "id": "servicios-publicos-0036",
+      "category": "servicios-publicos",
+      "name": "AGUASDELNORTE ESP",
+      "provider": "AGUASDELNORTE ESP",
+      "logo": "assets/images/aguas del norte.png"
+    },
+    {
+      "id": "servicios-publicos-0037",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO ALCANTARILLADO BOGOTA",
+      "provider": "ACUEDUCTO ALCANTARILLADO BOGOTA",
+      "logo": "assets/images/acueductodebogota.jfif"
+    },
+    {
+      "id": "servicios-publicos-0038",
+      "category": "servicios-publicos",
+      "name": "INS SA",
+      "provider": "INS SA",
+      "logo": "assets/images/mas que gas.jpg"
+    },
+    {
+      "id": "servicios-publicos-0039",
+      "category": "servicios-publicos",
+      "name": "EMSERCHOACHI",
+      "provider": "EMSERCHOACHI",
+      "logo": "assets/images/ensersoachi.png"
+    },
+    {
+      "id": "servicios-publicos-0040",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO EMP PUB PUERTO BOYACA",
+      "provider": "ACUEDUCTO EMP PUB PUERTO BOYACA",
+      "logo": "assets/images/epb.png"
+    },
+    {
+      "id": "servicios-publicos-0041",
+      "category": "servicios-publicos",
+      "name": "SERVICIOS EMPRESARIALES DE ASEO SAS ESP",
+      "provider": "SERVICIOS EMPRESARIALES DE ASEO SAS ESP",
+      "logo": "assets/images/aseo sas.png"
+    },
+    {
+      "id": "servicios-publicos-0042",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO CANASGORDAS CALI",
+      "provider": "ACUEDUCTO CANASGORDAS CALI",
+      "logo": "assets/images/canas gordas.png"
+    },
+    {
+      "id": "servicios-publicos-0043",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO ESP PACHO SA",
+      "provider": "ACUEDUCTO ESP PACHO SA",
+      "logo": "assets/images/esp pacho.png"
+    },
+    {
+      "id": "servicios-publicos-0044",
+      "category": "servicios-publicos",
+      "name": "YAVEGAS",
+      "provider": "YAVEGAS",
+      "logo": "assets/images/yavegas.png"
+    },
+    {
+      "id": "servicios-publicos-0045",
+      "category": "servicios-publicos",
+      "name": "SERRAMONTE SA ESP CLL 40 NO 32 50 OFICINA 301",
+      "provider": "SERRAMONTE SA ESP CLL 40 NO 32 50 OFICINA 301",
+      "logo": "assets/images/serra montesa.png"
+    },
+    {
+      "id": "servicios-publicos-0046",
+      "category": "servicios-publicos",
+      "name": "EMPOCHACHAGUI SAS ESP",
+      "provider": "EMPOCHACHAGUI SAS ESP",
+      "logo": "assets/images/es.png"
+    },
+    {
+      "id": "servicios-publicos-0047",
+      "category": "servicios-publicos",
+      "name": "AGUAS DE CHINAUTA ESP CHINA KM 63",
+      "provider": "AGUAS DE CHINAUTA ESP CHINA KM 63",
+      "logo": "assets/images/aguaschinauta2.png"
+    },
+    {
+      "id": "servicios-publicos-0048",
+      "category": "servicios-publicos",
+      "name": "CONHYDRA",
+      "provider": "CONHYDRA",
+      "logo": "assets/images/conhydra.png"
+    },
+    {
+      "id": "servicios-publicos-0049",
+      "category": "servicios-publicos",
+      "name": "ESP ACUASALUD EL CARMELO",
+      "provider": "ESP ACUASALUD EL CARMELO",
+      "logo": "assets/images/esp acuasalud.png"
+    },
+    {
+      "id": "servicios-publicos-0050",
+      "category": "servicios-publicos",
+      "name": "EMVALLE SAS ESP CARRERA 100 NO 11 60 LOCAL 227",
+      "provider": "EMVALLE SAS ESP CARRERA 100 NO 11 60 LOCAL 227",
+      "logo": "assets/images/es.png"
+    },
+    {
+      "id": "servicios-publicos-0051",
+      "category": "servicios-publicos",
+      "name": "COLENERGIA",
+      "provider": "COLENERGIA",
+      "logo": "assets/images/colenergia.png"
+    },
+    {
+      "id": "servicios-publicos-0052",
+      "category": "servicios-publicos",
+      "name": "Asociacion Miraguas",
+      "provider": "Asociacion Miraguas",
+      "logo": "assets/images/Asociacion Miraguas.png"
+    },
+    {
+      "id": "servicios-publicos-0053",
+      "category": "servicios-publicos",
+      "name": "LIDAGAS SA ESP",
+      "provider": "LIDAGAS SA ESP",
+      "logo": "assets/images/LIDAGAS SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0054",
+      "category": "servicios-publicos",
+      "name": "GdO Gases de occidente",
+      "provider": "GdO Gases de occidente",
+      "logo": "assets/images/GdO Gases de occidente.png"
+    },
+    {
+      "id": "servicios-publicos-0055",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO SAN AGUSTIN",
+      "provider": "ACUEDUCTO SAN AGUSTIN",
+      "logo": "assets/images/ACUEDUCTO SAN AGUSTIN.png"
+    },
+    {
+      "id": "servicios-publicos-0056",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO SANTA ANA",
+      "provider": "ACUEDUCTO SANTA ANA",
+      "logo": "assets/images/ACUEDUCTO SANTA ANA.png"
+    },
+    {
+      "id": "servicios-publicos-0057",
+      "category": "servicios-publicos",
+      "name": "RECAUDO AGUAS DE BOGOTA AV CL 24 37 15",
+      "provider": "RECAUDO AGUAS DE BOGOTA AV CL 24 37 15",
+      "logo": "assets/images/RECAUDO AGUAS DE BOGOTA AV.png"
+    },
+    {
+      "id": "servicios-publicos-0058",
+      "category": "servicios-publicos",
+      "name": "GAS NEIVA SA NEIVA",
+      "provider": "GAS NEIVA SA NEIVA",
+      "logo": "assets/images/GAS NEIVA SA NEIVA.png"
+    },
+    {
+      "id": "servicios-publicos-0059",
+      "category": "servicios-publicos",
+      "name": "Hega Sa Esp Operacion",
+      "provider": "Hega Sa Esp Operacion",
+      "logo": "assets/images/Hega Sa Esp Operacion.png"
+    },
+    {
+      "id": "servicios-publicos-0060",
+      "category": "servicios-publicos",
+      "name": "GAS NATURAL DOM ENERCA",
+      "provider": "GAS NATURAL DOM ENERCA",
+      "logo": "assets/images/GAS NATURAL DOM ENERCA.png"
+    },
+    {
+      "id": "servicios-publicos-0061",
+      "category": "servicios-publicos",
+      "name": "GAS NATURAL CUNDIBOYACENSE SA",
+      "provider": "GAS NATURAL CUNDIBOYACENSE SA",
+      "logo": "assets/images/GAS NATURAL CUNDIBOYACENSE SA.png"
+    },
+    {
+      "id": "servicios-publicos-0062",
+      "category": "servicios-publicos",
+      "name": "Cusianagas SAS ESP",
+      "provider": "Cusianagas SAS ESP",
+      "logo": "assets/images/Cusianagas SAS ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0063",
+      "category": "servicios-publicos",
+      "name": "ASUSERVI TUNAL VEREDA EL TUNAL SECTOR TANQUE 1",
+      "provider": "ASUSERVI TUNAL VEREDA EL TUNAL SECTOR TANQUE 1",
+      "logo": "assets/images/servicios-publicos/logo-063.png"
+    },
+    {
+      "id": "servicios-publicos-0064",
+      "category": "servicios-publicos",
+      "name": "TELEFONO ETB EMPRESA BOGOTA",
+      "provider": "TELEFONO ETB EMPRESA BOGOTA",
+      "logo": "assets/images/TELEFONO ETB EMPRESA BOGOTA.png"
+    },
+    {
+      "id": "servicios-publicos-0065",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO VEREDAL SAN JOIS",
+      "provider": "ACUEDUCTO VEREDAL SAN JOIS",
+      "logo": "assets/images/acueducto vererdal san jois.png"
+    },
+    {
+      "id": "servicios-publicos-0066",
+      "category": "servicios-publicos",
+      "name": "CIUDAD LIMPIA YUMBO",
+      "provider": "CIUDAD LIMPIA YUMBO",
+      "logo": "assets/images/ciudad limpia yumbo.png"
+    },
+    {
+      "id": "servicios-publicos-0067",
+      "category": "servicios-publicos",
+      "name": "ECO SERVICIOS RECAUDO",
+      "provider": "ECO SERVICIOS RECAUDO",
+      "logo": "assets/images/servicios-publicos/logo-067.png"
+    },
+    {
+      "id": "servicios-publicos-0068",
+      "category": "servicios-publicos",
+      "name": "URBASER FACATATIVA",
+      "provider": "URBASER FACATATIVA",
+      "logo": "assets/images/urbaser.png"
+    },
+    {
+      "id": "servicios-publicos-0069",
+      "category": "servicios-publicos",
+      "name": "Agua Gas Energia y Tel EPM",
+      "provider": "Agua Gas Energia y Tel EPM",
+      "logo": "assets/images/Agua Gas Energia y Tel EPM.png"
+    },
+    {
+      "id": "servicios-publicos-0070",
+      "category": "servicios-publicos",
+      "name": "CELSIA COLOMBIA SA ESP",
+      "provider": "CELSIA COLOMBIA SA ESP",
+      "logo": "assets/images/celsia.png"
+    },
+    {
+      "id": "servicios-publicos-0071",
+      "category": "servicios-publicos",
+      "name": "PARATEBUENO ESP",
+      "provider": "PARATEBUENO ESP",
+      "logo": "assets/images/PARATEBUENO ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0072",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO AQUATERRA",
+      "provider": "ACUEDUCTO AQUATERRA",
+      "logo": "assets/images/ACUEDUCTO AQUATERRA.png"
+    },
+    {
+      "id": "servicios-publicos-0073",
+      "category": "servicios-publicos",
+      "name": "TIGO UNE 500 CELULAR",
+      "provider": "TIGO UNE 500 CELULAR",
+      "logo": "assets/images/TIGO UNE 500 CELULAR.png"
+    },
+    {
+      "id": "servicios-publicos-0074",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO MPIO ANOLAIMA SERVIPUBL",
+      "provider": "ACUEDUCTO MPIO ANOLAIMA SERVIPUBL",
+      "logo": "assets/images/ACUEDUCTO MPIO ANOLAIMA SERVIPUBL.png"
+    },
+    {
+      "id": "servicios-publicos-0075",
+      "category": "servicios-publicos",
+      "name": "CEO COMPANIA ENERGETICA DE OCCIDENTE",
+      "provider": "CEO COMPANIA ENERGETICA DE OCCIDENTE",
+      "logo": "assets/images/CEO COMPANIA ENERGETICA DE OCCIDENTE.png"
+    },
+    {
+      "id": "servicios-publicos-0076",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO AGUAS DE BUGA SERVIPUBLI",
+      "provider": "ACUEDUCTO AGUAS DE BUGA SERVIPUBLI",
+      "logo": "assets/images/ACUEDUCTO AGUAS DE BUGA SERVIPUBLI.png"
+    },
+    {
+      "id": "servicios-publicos-0077",
+      "category": "servicios-publicos",
+      "name": "ESPUCAL ESP",
+      "provider": "ESPUCAL ESP",
+      "logo": "assets/images/ESPUCAL ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0078",
+      "category": "servicios-publicos",
+      "name": "Afrocaucana de aguas",
+      "provider": "Afrocaucana de aguas",
+      "logo": "assets/images/Afrocaucana de aguas.png"
+    },
+    {
+      "id": "servicios-publicos-0079",
+      "category": "servicios-publicos",
+      "name": "ENEL GAS",
+      "provider": "ENEL GAS",
+      "logo": "assets/images/enelgas.png"
+    },
+    {
+      "id": "servicios-publicos-0080",
+      "category": "servicios-publicos",
+      "name": "ACUALANDAYES ACUEDUCTO PA CA 57 CORRDAPA",
+      "provider": "ACUALANDAYES ACUEDUCTO PA CA 57 CORRDAPA",
+      "logo": "assets/images/acualandayes.png"
+    },
+    {
+      "id": "servicios-publicos-0081",
+      "category": "servicios-publicos",
+      "name": "URBASER DUITAMA",
+      "provider": "URBASER DUITAMA",
+      "logo": "assets/images/urbaser.png"
+    },
+    {
+      "id": "servicios-publicos-0082",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO SANTA BARBARA GACHANCIPA",
+      "provider": "ACUEDUCTO SANTA BARBARA GACHANCIPA",
+      "logo": "assets/images/ACUEDUCTO SANTA BARBARA GACHANCIPA.png"
+    },
+    {
+      "id": "servicios-publicos-0083",
+      "category": "servicios-publicos",
+      "name": "Urbaser Monteria",
+      "provider": "Urbaser Monteria",
+      "logo": "assets/images/urbaser.png"
+    },
+    {
+      "id": "servicios-publicos-0084",
+      "category": "servicios-publicos",
+      "name": "VIDAGAS",
+      "provider": "VIDAGAS",
+      "logo": "assets/images/VIDAGAS.png"
+    },
+    {
+      "id": "servicios-publicos-0085",
+      "category": "servicios-publicos",
+      "name": "ENEL SA ESP",
+      "provider": "ENEL SA ESP",
+      "logo": "assets/images/enel.png"
+    },
+    {
+      "id": "servicios-publicos-0086",
+      "category": "servicios-publicos",
+      "name": "ACUARINCON",
+      "provider": "ACUARINCON",
+      "logo": "assets/images/servicios-publicos/logo-086.png"
+    },
+    {
+      "id": "servicios-publicos-0087",
+      "category": "servicios-publicos",
+      "name": "TELEFONO EMCALI SERVICIOS PUBLICOS",
+      "provider": "TELEFONO EMCALI SERVICIOS PUBLICOS",
+      "logo": "assets/images/TELEFONO EMCALI SERVICIOS PUBLICOS.png"
+    },
+    {
+      "id": "servicios-publicos-0088",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO DE GIRARDOT ACUAGYR",
+      "provider": "ACUEDUCTO DE GIRARDOT ACUAGYR",
+      "logo": "assets/images/ACUEDUCTO DE GIRARDOT ACUAGYR.png"
+    },
+    {
+      "id": "servicios-publicos-0089",
+      "category": "servicios-publicos",
+      "name": "URBASER YUMBO SA ESP",
+      "provider": "URBASER YUMBO SA ESP",
+      "logo": "assets/images/urbaser.png"
+    },
+    {
+      "id": "servicios-publicos-0090",
+      "category": "servicios-publicos",
+      "name": "INFIBAGUE ALUMBRADO PUBLICO",
+      "provider": "INFIBAGUE ALUMBRADO PUBLICO",
+      "logo": "assets/images/INFIBAGUE ALUMBRADO PUBLICO.png"
+    },
+    {
+      "id": "servicios-publicos-0091",
+      "category": "servicios-publicos",
+      "name": "ASOBOSQUE DISTRITO DE RIEGO",
+      "provider": "ASOBOSQUE DISTRITO DE RIEGO",
+      "logo": "assets/images/ASOBOSQUE DISTRITO DE RIEGO.png"
+    },
+    {
+      "id": "servicios-publicos-0092",
+      "category": "servicios-publicos",
+      "name": "GAS CHILCO",
+      "provider": "GAS CHILCO",
+      "logo": "assets/images/GAS CHILCO.png"
+    },
+    {
+      "id": "servicios-publicos-0093",
+      "category": "servicios-publicos",
+      "name": "VANTI Gasoriente SA ESP",
+      "provider": "VANTI Gasoriente SA ESP",
+      "logo": "assets/images/GAS NATURAL CUNDIBOYACENSE SA.png"
+    },
+    {
+      "id": "servicios-publicos-0094",
+      "category": "servicios-publicos",
+      "name": "GASES DEL CARIBE",
+      "provider": "GASES DEL CARIBE",
+      "logo": "assets/images/GASES DEL CARIBE.png"
+    },
+    {
+      "id": "servicios-publicos-0095",
+      "category": "servicios-publicos",
+      "name": "Llanogas SA ESP",
+      "provider": "Llanogas SA ESP",
+      "logo": "assets/images/Llanogas SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0096",
+      "category": "servicios-publicos",
+      "name": "ENERGIA VATIA SA ESP",
+      "provider": "ENERGIA VATIA SA ESP",
+      "logo": "assets/images/ENERGIA VATIA SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0097",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO IBAL SA ESP OFICIAL",
+      "provider": "ACUEDUCTO IBAL SA ESP OFICIAL",
+      "logo": "assets/images/ACUEDUCTO IBAL SA ESP OFICIAL.png"
+    },
+    {
+      "id": "servicios-publicos-0098",
+      "category": "servicios-publicos",
+      "name": "ASOBOSACHOQUE",
+      "provider": "ASOBOSACHOQUE",
+      "logo": "assets/images/ASOBOSACHOQUE.png"
+    },
+    {
+      "id": "servicios-publicos-0099",
+      "category": "servicios-publicos",
+      "name": "AIRE FACTURACION",
+      "provider": "AIRE FACTURACION",
+      "logo": "assets/images/AIRE FACTURACION.png"
+    },
+    {
+      "id": "servicios-publicos-0100",
+      "category": "servicios-publicos",
+      "name": "EMPODUITAMA SERVICIOS PUBLICOS",
+      "provider": "EMPODUITAMA SERVICIOS PUBLICOS",
+      "logo": "assets/images/servicios-publicos/logo-100.png"
+    },
+    {
+      "id": "servicios-publicos-0101",
+      "category": "servicios-publicos",
+      "name": "ENERGIA ENERTOTAL SA ESP",
+      "provider": "ENERGIA ENERTOTAL SA ESP",
+      "logo": "assets/images/ENERGIA ENERTOTAL SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0102",
+      "category": "servicios-publicos",
+      "name": "EPZ",
+      "provider": "EPZ",
+      "logo": "assets/images/EPZ.png"
+    },
+    {
+      "id": "servicios-publicos-0103",
+      "category": "servicios-publicos",
+      "name": "ACSEPAL",
+      "provider": "ACSEPAL",
+      "logo": "assets/images/servicios-publicos/logo-103.png"
+    },
+    {
+      "id": "servicios-publicos-0104",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO BUCARAMANGA",
+      "provider": "ACUEDUCTO BUCARAMANGA",
+      "logo": "assets/images/ACUEDUCTO BUCARAMANGA.png"
+    },
+    {
+      "id": "servicios-publicos-0105",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO DE FUNZA",
+      "provider": "ACUEDUCTO DE FUNZA",
+      "logo": "assets/images/ACUEDUCTO FUNZA.png"
+    },
+    {
+      "id": "servicios-publicos-0106",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO AGUAS DE CARTAGENA",
+      "provider": "ACUEDUCTO AGUAS DE CARTAGENA",
+      "logo": "assets/images/ACUEDUCTO AGUAS DE CARTAGENA.png"
+    },
+    {
+      "id": "servicios-publicos-0107",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO TRIPLE A FACTURACION",
+      "provider": "ACUEDUCTO TRIPLE A FACTURACION",
+      "logo": "assets/images/ACUEDUCTO TRIPLE A FACTURACION.png"
+    },
+    {
+      "id": "servicios-publicos-0108",
+      "category": "servicios-publicos",
+      "name": "ALUMBRADO RECAUDO CORRIENTE POPAYAN",
+      "provider": "ALUMBRADO RECAUDO CORRIENTE POPAYAN",
+      "logo": "assets/images/ALUMBRADO RECAUDO CORRIENTE POPAYAN.png"
+    },
+    {
+      "id": "servicios-publicos-0109",
+      "category": "servicios-publicos",
+      "name": "EDEQ DOMICILIACION",
+      "provider": "EDEQ DOMICILIACION",
+      "logo": "assets/images/EDEQ DOMICILIACION.png"
+    },
+    {
+      "id": "servicios-publicos-0110",
+      "category": "servicios-publicos",
+      "name": "Servicio Aseo Cali SICO",
+      "provider": "Servicio Aseo Cali SICO",
+      "logo": "assets/images/Servicio Aseo Cali SICO.png"
+    },
+    {
+      "id": "servicios-publicos-0111",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO LA REJOYA POPAYAN",
+      "provider": "ACUEDUCTO LA REJOYA POPAYAN",
+      "logo": "assets/images/ACUEDUCTO LA REJOYA POPAYAN.png"
+    },
+    {
+      "id": "servicios-publicos-0112",
+      "category": "servicios-publicos",
+      "name": "EMP DE SERVICIOS PUB DE FUSA EMSEFUSA NO 466",
+      "provider": "EMP DE SERVICIOS PUB DE FUSA EMSEFUSA NO 466",
+      "logo": "assets/images/servicios-publicos/logo-112.png"
+    },
+    {
+      "id": "servicios-publicos-0113",
+      "category": "servicios-publicos",
+      "name": "EMPRESAS PUBLICAS DE ABEJORRAL",
+      "provider": "EMPRESAS PUBLICAS DE ABEJORRAL",
+      "logo": "assets/images/EMPRESAS PUBLICAS DE ABEJORRAL.png"
+    },
+    {
+      "id": "servicios-publicos-0114",
+      "category": "servicios-publicos",
+      "name": "GAS NTRAL ALCANOS DE COLOMBIA SA",
+      "provider": "GAS NTRAL ALCANOS DE COLOMBIA SA",
+      "logo": "assets/images/GAS NTRAL ALCANOS DE COLOMBIA SA.png"
+    },
+    {
+      "id": "servicios-publicos-0115",
+      "category": "servicios-publicos",
+      "name": "YUMBO LIMPIO SA ESP",
+      "provider": "YUMBO LIMPIO SA ESP",
+      "logo": "assets/images/YUMBO LIMPIO SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0116",
+      "category": "servicios-publicos",
+      "name": "CARIBEMAR DE LA COSTA FACTURACION",
+      "provider": "CARIBEMAR DE LA COSTA FACTURACION",
+      "logo": "assets/images/CARIBEMAR DE LA COSTA FACTURACION.png"
+    },
+    {
+      "id": "servicios-publicos-0117",
+      "category": "servicios-publicos",
+      "name": "PIEDECUESTANA SERVICIOS RECAUDO II",
+      "provider": "PIEDECUESTANA SERVICIOS RECAUDO II",
+      "logo": "assets/images/PIEDECUESTANA SERVICIOS RECAUDO II.png"
+    },
+    {
+      "id": "servicios-publicos-0118",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO FAAAMESP MADRID",
+      "provider": "ACUEDUCTO FAAAMESP MADRID",
+      "logo": "assets/images/ACUEDUCTO FAAAMESP MADRID.png"
+    },
+    {
+      "id": "servicios-publicos-0119",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO PIEDECUESTANA SERVICIOS",
+      "provider": "ACUEDUCTO PIEDECUESTANA SERVICIOS",
+      "logo": "assets/images/ACUEDUCTO PIEDECUESTANA SERVICIOS.png"
+    },
+    {
+      "id": "servicios-publicos-0120",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO VILLAVICENCIO EAAV",
+      "provider": "ACUEDUCTO VILLAVICENCIO EAAV",
+      "logo": "assets/images/ACUEDUCTO VILLAVICENCIO EAAV.png"
+    },
+    {
+      "id": "servicios-publicos-0121",
+      "category": "servicios-publicos",
+      "name": "GAS NTRAL SURTIGAS SA ESP",
+      "provider": "GAS NTRAL SURTIGAS SA ESP",
+      "logo": "assets/images/GAS NTRAL SURTIGAS SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0122",
+      "category": "servicios-publicos",
+      "name": "URAMITA ACUEDUCTO",
+      "provider": "URAMITA ACUEDUCTO",
+      "logo": "assets/images/URAMITA ACUEDUCTO.png"
+    },
+    {
+      "id": "servicios-publicos-0123",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO DE SAN MIGUEL",
+      "provider": "ACUEDUCTO DE SAN MIGUEL",
+      "logo": "assets/images/servicios-publicos/logo-123.png"
+    },
+    {
+      "id": "servicios-publicos-0124",
+      "category": "servicios-publicos",
+      "name": "GAS NTRAL SUPERGAS DE NARINO",
+      "provider": "GAS NTRAL SUPERGAS DE NARINO",
+      "logo": "assets/images/GAS NTRAL SUPERGAS DE NARINO.png"
+    },
+    {
+      "id": "servicios-publicos-0125",
+      "category": "servicios-publicos",
+      "name": "Tigo Une 200",
+      "provider": "Tigo Une 200",
+      "logo": "assets/images/Tigo Une 200.png"
+    },
+    {
+      "id": "servicios-publicos-0126",
+      "category": "servicios-publicos",
+      "name": "TIGO UNE 300",
+      "provider": "TIGO UNE 300",
+      "logo": "assets/images/TIGO UNE 300.png"
+    },
+    {
+      "id": "servicios-publicos-0127",
+      "category": "servicios-publicos",
+      "name": "TIGO UNE 900",
+      "provider": "TIGO UNE 900",
+      "logo": "assets/images/TIGO UNE 300.png"
+    },
+    {
+      "id": "servicios-publicos-0128",
+      "category": "servicios-publicos",
+      "name": "ABONO CETSA",
+      "provider": "ABONO CETSA",
+      "logo": "assets/images/ABONO CETSA.png"
+    },
+    {
+      "id": "servicios-publicos-0129",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO AGUAS MARAKATA SA ESP",
+      "provider": "ACUEDUCTO AGUAS MARAKATA SA ESP",
+      "logo": "assets/images/ACUEDUCTO AGUAS MARAKATA SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0130",
+      "category": "servicios-publicos",
+      "name": "Acueducto Mpio Leticia Imp Predial",
+      "provider": "Acueducto Mpio Leticia Imp Predial",
+      "logo": "assets/images/Acueducto Mpio Leticia Imp Predial.png"
+    },
+    {
+      "id": "servicios-publicos-0131",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO UN DE ASEO MUNICIPAL",
+      "provider": "ACUEDUCTO UN DE ASEO MUNICIPAL",
+      "logo": "assets/images/ACUEDUCTO UN DE ASEO MUNICIPAL.png"
+    },
+    {
+      "id": "servicios-publicos-0132",
+      "category": "servicios-publicos",
+      "name": "COLGAS GLP RESIDENCIAL",
+      "provider": "COLGAS GLP RESIDENCIAL",
+      "logo": "assets/images/COLGAS GLP RESIDENCIAL.png"
+    },
+    {
+      "id": "servicios-publicos-0133",
+      "category": "servicios-publicos",
+      "name": "Efigas Gas Natural",
+      "provider": "Efigas Gas Natural",
+      "logo": "assets/images/Efigas Gas Natural.png"
+    },
+    {
+      "id": "servicios-publicos-0134",
+      "category": "servicios-publicos",
+      "name": "ENERGIA ATENEA SAS",
+      "provider": "ENERGIA ATENEA SAS",
+      "logo": "assets/images/ENERGIA ATENEA SAS.png"
+    },
+    {
+      "id": "servicios-publicos-0135",
+      "category": "servicios-publicos",
+      "name": "ESP LA CEJA ACUERDOS DE PAGO",
+      "provider": "ESP LA CEJA ACUERDOS DE PAGO",
+      "logo": "assets/images/ESP LA CEJA ACUERDOS DE PAGO.png"
+    },
+    {
+      "id": "servicios-publicos-0136",
+      "category": "servicios-publicos",
+      "name": "INFIBAGUE ARRENDAMIENTOS",
+      "provider": "INFIBAGUE ARRENDAMIENTOS",
+      "logo": "assets/images/INFIBAGUE ARRENDAMIENTOS.png"
+    },
+    {
+      "id": "servicios-publicos-0137",
+      "category": "servicios-publicos",
+      "name": "RECAUDO CIUDAD LIMPIA MPIO PALERMO",
+      "provider": "RECAUDO CIUDAD LIMPIA MPIO PALERMO",
+      "logo": "assets/images/RECAUDO CIUDAD LIMPIA MPIO PALERMO.png"
+    },
+    {
+      "id": "servicios-publicos-0138",
+      "category": "servicios-publicos",
+      "name": "TERRANOVA SERVICIOS",
+      "provider": "TERRANOVA SERVICIOS",
+      "logo": "assets/images/TERRANOVA SERVICIOS.png"
+    },
+    {
+      "id": "servicios-publicos-0139",
+      "category": "servicios-publicos",
+      "name": "Urbaser Tunja",
+      "provider": "Urbaser Tunja",
+      "logo": "assets/images/urbaser.png"
+    },
+    {
+      "id": "servicios-publicos-0140",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO EMPRESA PUBLICA FRONTINO",
+      "provider": "ACUEDUCTO EMPRESA PUBLICA FRONTINO",
+      "logo": "assets/images/ACUEDUCTO EMPRESA PUBLICA FRONTINO.png"
+    },
+    {
+      "id": "servicios-publicos-0141",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO ESP MARINILLA",
+      "provider": "ACUEDUCTO ESP MARINILLA",
+      "logo": "assets/images/ACUEDUCTO ESP MARINILLA.png"
+    },
+    {
+      "id": "servicios-publicos-0142",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO VEOLIA AGUAS DE TUNJA SA ESP",
+      "provider": "ACUEDUCTO VEOLIA AGUAS DE TUNJA SA ESP",
+      "logo": "assets/images/ACUEDUCTO VEOLIA AGUAS DE TUNJA SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0143",
+      "category": "servicios-publicos",
+      "name": "ENERGIA ELECTROCAQUETA",
+      "provider": "ENERGIA ELECTROCAQUETA",
+      "logo": "assets/images/ENERGIA ELECTROCAQUETA.png"
+    },
+    {
+      "id": "servicios-publicos-0144",
+      "category": "servicios-publicos",
+      "name": "ENERGIA RUITOQUE",
+      "provider": "ENERGIA RUITOQUE",
+      "logo": "assets/images/ENERGIA RUITOQUE.png"
+    },
+    {
+      "id": "servicios-publicos-0145",
+      "category": "servicios-publicos",
+      "name": "Montagas Comercial granel",
+      "provider": "Montagas Comercial granel",
+      "logo": "assets/images/Montagas Comercial granel.png"
+    },
+    {
+      "id": "servicios-publicos-0146",
+      "category": "servicios-publicos",
+      "name": "RED VITAL PAIPA ESP",
+      "provider": "RED VITAL PAIPA ESP",
+      "logo": "assets/images/servicios-publicos/logo-146.png"
+    },
+    {
+      "id": "servicios-publicos-0147",
+      "category": "servicios-publicos",
+      "name": "SERVICIOS PUBLICOS YUMBO ESPY",
+      "provider": "SERVICIOS PUBLICOS YUMBO ESPY",
+      "logo": "assets/images/Captura de pantalla 2026-11-16 022342.png"
+    },
+    {
+      "id": "servicios-publicos-0148",
+      "category": "servicios-publicos",
+      "name": "TELEFONO EMCALI",
+      "provider": "TELEFONO EMCALI",
+      "logo": "assets/images/TELEFONO EMCALI SERVICIOS PUBLICOS.png"
+    },
+    {
+      "id": "servicios-publicos-0149",
+      "category": "servicios-publicos",
+      "name": "2 INFITULUA",
+      "provider": "2 INFITULUA",
+      "logo": "assets/images/Captura de pantalla 2026-11-16 022350.png"
+    },
+    {
+      "id": "servicios-publicos-0150",
+      "category": "servicios-publicos",
+      "name": "ACUASAN RECAUDO SERV PUBLICOS",
+      "provider": "ACUASAN RECAUDO SERV PUBLICOS",
+      "logo": "assets/images/servicios-publicos/logo-150.png"
+    },
+    {
+      "id": "servicios-publicos-0151",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO AGUA RICA",
+      "provider": "ACUEDUCTO AGUA RICA",
+      "logo": "assets/images/ACUEDUCTO AGUA RICA.png"
+    },
+    {
+      "id": "servicios-publicos-0152",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO AGUAS DE MANIZALES",
+      "provider": "ACUEDUCTO AGUAS DE MANIZALES",
+      "logo": "assets/images/aguas de manizales.png"
+    },
+    {
+      "id": "servicios-publicos-0153",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO AGUAS DIBULLA SA ESP",
+      "provider": "ACUEDUCTO AGUAS DIBULLA SA ESP",
+      "logo": "assets/images/ACUEDUCTO AGUAS DIBULLA SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0154",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO ALTO MAGDALENA",
+      "provider": "ACUEDUCTO ALTO MAGDALENA",
+      "logo": "assets/images/ACUEDUCTO ALTO MAGDALENA.png"
+    },
+    {
+      "id": "servicios-publicos-0155",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO EDESA META",
+      "provider": "ACUEDUCTO EDESA META",
+      "logo": "assets/images/ACUEDUCTO EDESA META.png"
+    },
+    {
+      "id": "servicios-publicos-0156",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO EMCORINTO ESP",
+      "provider": "ACUEDUCTO EMCORINTO ESP",
+      "logo": "assets/images/servicios-publicos/logo-156.png"
+    },
+    {
+      "id": "servicios-publicos-0157",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO EMPRESA PB DE SIBATE RDO",
+      "provider": "ACUEDUCTO EMPRESA PB DE SIBATE RDO",
+      "logo": "assets/images/servicios-publicos/logo-157.png"
+    },
+    {
+      "id": "servicios-publicos-0158",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO ESP DEL SANTUARIO",
+      "provider": "ACUEDUCTO ESP DEL SANTUARIO",
+      "logo": "assets/images/ACUEDUCTO ESP DEL SANTUARIO.png"
+    },
+    {
+      "id": "servicios-publicos-0159",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO JAVA",
+      "provider": "ACUEDUCTO JAVA",
+      "logo": "assets/images/ACUEDUCTO JAVA.png"
+    },
+    {
+      "id": "servicios-publicos-0160",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO MOROS",
+      "provider": "ACUEDUCTO MOROS",
+      "logo": "assets/images/servicios-publicos/logo-160.png"
+    },
+    {
+      "id": "servicios-publicos-0161",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO MUN ARBELAEZ SERVIPUBLIC",
+      "provider": "ACUEDUCTO MUN ARBELAEZ SERVIPUBLIC",
+      "logo": "assets/images/ACUEDUCTO MUN ARBELAEZ SERVIPUBLIC.png"
+    },
+    {
+      "id": "servicios-publicos-0162",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO OPERADORES LA SIERRA SAESP",
+      "provider": "ACUEDUCTO OPERADORES LA SIERRA SAESP",
+      "logo": "assets/images/ACUEDUCTO OPERADORES LA SIERRA SAESP.png"
+    },
+    {
+      "id": "servicios-publicos-0163",
+      "category": "servicios-publicos",
+      "name": "ACUEDUCTO POPAYAN",
+      "provider": "ACUEDUCTO POPAYAN",
+      "logo": "assets/images/ACUEDUCTO POPAYAN.png"
+    },
+    {
+      "id": "servicios-publicos-0164",
+      "category": "servicios-publicos",
+      "name": "ADAQUA SAS",
+      "provider": "ADAQUA SAS",
+      "logo": "assets/images/ADAQUASAS.png"
+    },
+    {
+      "id": "servicios-publicos-0165",
+      "category": "servicios-publicos",
+      "name": "AGUAS DE ABURRA",
+      "provider": "AGUAS DE ABURRA",
+      "logo": "assets/images/AGUAS ABURRA.png"
+    },
+    {
+      "id": "servicios-publicos-0166",
+      "category": "servicios-publicos",
+      "name": "ALCANTARILLADO ASEO ZIPAQUIRA",
+      "provider": "ALCANTARILLADO ASEO ZIPAQUIRA",
+      "logo": "assets/images/ALCANTARILLADO ASEO ZIPAQUIRA.png"
+    },
+    {
+      "id": "servicios-publicos-0167",
+      "category": "servicios-publicos",
+      "name": "ALP",
+      "provider": "ALP",
+      "logo": "assets/images/ALP.png"
+    },
+    {
+      "id": "servicios-publicos-0168",
+      "category": "servicios-publicos",
+      "name": "ASC INGENIERIA SOCIEDAD ANONIMA ESP",
+      "provider": "ASC INGENIERIA SOCIEDAD ANONIMA ESP",
+      "logo": "assets/images/servicios-publicos/logo-168.png"
+    },
+    {
+      "id": "servicios-publicos-0169",
+      "category": "servicios-publicos",
+      "name": "ASEAMOS SAN MARTIN DE LOBA",
+      "provider": "ASEAMOS SAN MARTIN DE LOBA",
+      "logo": "assets/images/ASEAMOS SAN MARTIN DE LOBA.png"
+    },
+    {
+      "id": "servicios-publicos-0170",
+      "category": "servicios-publicos",
+      "name": "ASEO ATESA OCCIDENTE SA ESP PEREIRA",
+      "provider": "ASEO ATESA OCCIDENTE SA ESP PEREIRA",
+      "logo": "assets/images/ASEO ATESA OCCIDENTE SA ESP PEREIRA.png"
+    },
+    {
+      "id": "servicios-publicos-0171",
+      "category": "servicios-publicos",
+      "name": "ASEO DEL NORTE SA ESP",
+      "provider": "ASEO DEL NORTE SA ESP",
+      "logo": "assets/images/ASEO DEL NORTE SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0172",
+      "category": "servicios-publicos",
+      "name": "ASEO DEL NORTE SA ESP SISTEM",
+      "provider": "ASEO DEL NORTE SA ESP SISTEM",
+      "logo": "assets/images/ASEO DEL NORTE SA ESP SISTEM.png"
+    },
+    {
+      "id": "servicios-publicos-0173",
+      "category": "servicios-publicos",
+      "name": "ASEO ESPECIAL SOLEDAD SA ESP",
+      "provider": "ASEO ESPECIAL SOLEDAD SA ESP",
+      "logo": "assets/images/ASEO ESPECIAL SOLEDAD SA ESP SIST.png"
+    },
+    {
+      "id": "servicios-publicos-0174",
+      "category": "servicios-publicos",
+      "name": "ASEO ESPECIAL SOLEDAD SA ESP SIST",
+      "provider": "ASEO ESPECIAL SOLEDAD SA ESP SIST",
+      "logo": "assets/images/ASEO ESPECIAL SOLEDAD SA ESP SIST.png"
+    },
+    {
+      "id": "servicios-publicos-0175",
+      "category": "servicios-publicos",
+      "name": "ASEO INTERASEO ARCHIPIELAGO SA ESP",
+      "provider": "ASEO INTERASEO ARCHIPIELAGO SA ESP",
+      "logo": "assets/images/ASEO INTERASEO ARCHIPIELAGO SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0176",
+      "category": "servicios-publicos",
+      "name": "ASEO INTERASEO DEL VALLE SA ESP",
+      "provider": "ASEO INTERASEO DEL VALLE SA ESP",
+      "logo": "assets/images/ASEO INTERASEO ARCHIPIELAGO SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0177",
+      "category": "servicios-publicos",
+      "name": "ASEO SOLUCIONES AMBIENTALES",
+      "provider": "ASEO SOLUCIONES AMBIENTALES",
+      "logo": "assets/images/servicios-publicos/logo-177.png"
+    },
+    {
+      "id": "servicios-publicos-0178",
+      "category": "servicios-publicos",
+      "name": "ASEO TECNICO SAS ESP",
+      "provider": "ASEO TECNICO SAS ESP",
+      "logo": "assets/images/ASEO TECNICO SAS ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0179",
+      "category": "servicios-publicos",
+      "name": "ASEOUPAR SAS ESP",
+      "provider": "ASEOUPAR SAS ESP",
+      "logo": "assets/images/ASEOUPAR SAS ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0180",
+      "category": "servicios-publicos",
+      "name": "ASOCABECERAS HOLANDA EL LIMON",
+      "provider": "ASOCABECERAS HOLANDA EL LIMON",
+      "logo": "assets/images/servicios-publicos/logo-180.png"
+    },
+    {
+      "id": "servicios-publicos-0181",
+      "category": "servicios-publicos",
+      "name": "ATESA DE OCCIDENTE SA ESP",
+      "provider": "ATESA DE OCCIDENTE SA ESP",
+      "logo": "assets/images/ATESA DE OCCIDENTE SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0182",
+      "category": "servicios-publicos",
+      "name": "ATESA STA MARTA",
+      "provider": "ATESA STA MARTA",
+      "logo": "assets/images/ATESA STA MARTA.png"
+    },
+    {
+      "id": "servicios-publicos-0183",
+      "category": "servicios-publicos",
+      "name": "ATESA STA MARTA CARTERA",
+      "provider": "ATESA STA MARTA CARTERA",
+      "logo": "assets/images/ATESA STA MARTA.png"
+    },
+    {
+      "id": "servicios-publicos-0184",
+      "category": "servicios-publicos",
+      "name": "Bioagricola Codigo de Barras",
+      "provider": "Bioagricola Codigo de Barras",
+      "logo": "assets/images/bioagricola.png"
+    },
+    {
+      "id": "servicios-publicos-0185",
+      "category": "servicios-publicos",
+      "name": "BIOLOGICO Y CONTAMINADOS SAS",
+      "provider": "BIOLOGICO Y CONTAMINADOS SAS",
+      "logo": "assets/images/BIOLOGICO Y CONTAMINADOS SAS.png"
+    },
+    {
+      "id": "servicios-publicos-0186",
+      "category": "servicios-publicos",
+      "name": "CABRERANA DE SERVICIOS PUBLICOS",
+      "provider": "CABRERANA DE SERVICIOS PUBLICOS",
+      "logo": "assets/images/CABRERANA DE SERVICIOS PUBLICOS.png"
+    },
+    {
+      "id": "servicios-publicos-0187",
+      "category": "servicios-publicos",
+      "name": "CALIFORNIA SERVICIOS PUBLICOS",
+      "provider": "CALIFORNIA SERVICIOS PUBLICOS",
+      "logo": "assets/images/servicios-publicos/logo-187.png"
+    },
+    {
+      "id": "servicios-publicos-0188",
+      "category": "servicios-publicos",
+      "name": "CEDENAR",
+      "provider": "CEDENAR",
+      "logo": "assets/images/cedenar.png"
+    },
+    {
+      "id": "servicios-publicos-0189",
+      "category": "servicios-publicos",
+      "name": "CETSA",
+      "provider": "CETSA",
+      "logo": "assets/images/ABONO CETSA.png"
+    },
+    {
+      "id": "servicios-publicos-0190",
+      "category": "servicios-publicos",
+      "name": "CETSA CUOTA INICIAL",
+      "provider": "CETSA CUOTA INICIAL",
+      "logo": "assets/images/ABONO CETSA.png"
+    },
+    {
+      "id": "servicios-publicos-0191",
+      "category": "servicios-publicos",
+      "name": "COMBUSTIBLES LIQ DE COLOMBIA SA",
+      "provider": "COMBUSTIBLES LIQ DE COLOMBIA SA",
+      "logo": "assets/images/COMBUSTIBLES LIQ DE COLOMBIA SA.png"
+    },
+    {
+      "id": "servicios-publicos-0192",
+      "category": "servicios-publicos",
+      "name": "COORP ACUEDUCTO EL MANANTIAL ANA",
+      "provider": "COORP ACUEDUCTO EL MANANTIAL ANA",
+      "logo": "assets/images/COORP ACUEDUCTO EL MANANTIAL ANA.png"
+    },
+    {
+      "id": "servicios-publicos-0193",
+      "category": "servicios-publicos",
+      "name": "DESECHOS ESPECIALSA ESP",
+      "provider": "DESECHOS ESPECIALSA ESP",
+      "logo": "assets/images/DESECHOS ESPECIALSA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0194",
+      "category": "servicios-publicos",
+      "name": "EAAYOPALILOTO",
+      "provider": "EAAYOPALILOTO",
+      "logo": "assets/images/EAAYOPALILOTO.png"
+    },
+    {
+      "id": "servicios-publicos-0195",
+      "category": "servicios-publicos",
+      "name": "EARPA",
+      "provider": "EARPA",
+      "logo": "assets/images/EARPA.png"
+    },
+    {
+      "id": "servicios-publicos-0196",
+      "category": "servicios-publicos",
+      "name": "EGYT SAS ESP",
+      "provider": "EGYT SAS ESP",
+      "logo": "assets/images/EGYT SAS ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0197",
+      "category": "servicios-publicos",
+      "name": "EMP ACUEDUCTO Y ALCANT DE MOSQUERA",
+      "provider": "EMP ACUEDUCTO Y ALCANT DE MOSQUERA",
+      "logo": "assets/images/EMP ACUEDUCTO Y ALCANT DE MOSQUERA.png"
+    },
+    {
+      "id": "servicios-publicos-0198",
+      "category": "servicios-publicos",
+      "name": "EMPADILLA",
+      "provider": "EMPADILLA",
+      "logo": "assets/images/EMPADILLA.png"
+    },
+    {
+      "id": "servicios-publicos-0199",
+      "category": "servicios-publicos",
+      "name": "EMP COLOMBIANA DE ASEO",
+      "provider": "EMP COLOMBIANA DE ASEO",
+      "logo": "assets/images/servicios-publicos/logo-199.png"
+    },
+    {
+      "id": "servicios-publicos-0200",
+      "category": "servicios-publicos",
+      "name": "EMPOPAMPLONA",
+      "provider": "EMPOPAMPLONA",
+      "logo": "assets/images/EMPOPAMPLONA.png"
+    },
+    {
+      "id": "servicios-publicos-0201",
+      "category": "servicios-publicos",
+      "name": "EMPOVITERBO RECAUDO SERVPUBLICOS",
+      "provider": "EMPOVITERBO RECAUDO SERVPUBLICOS",
+      "logo": "assets/images/servicios-publicos/logo-201.png"
+    },
+    {
+      "id": "servicios-publicos-0202",
+      "category": "servicios-publicos",
+      "name": "EMPRESA PUBLICAS DE EL ESPINAL",
+      "provider": "EMPRESA PUBLICAS DE EL ESPINAL",
+      "logo": "assets/images/EMPRESA PUBLICAS DE EL ESPINAL.png"
+    },
+    {
+      "id": "servicios-publicos-0203",
+      "category": "servicios-publicos",
+      "name": "EMPRESAS MUNICIPALES DE CARTAGO CLL 13 NO 5A 32",
+      "provider": "EMPRESAS MUNICIPALES DE CARTAGO CLL 13 NO 5A 32",
+      "logo": "assets/images/EMPRESAS MUNICIPALES DE CARTAGO CLL 13 NO 5A 32.png"
+    },
+    {
+      "id": "servicios-publicos-0204",
+      "category": "servicios-publicos",
+      "name": "EMPRESAS PUBLICAS DE BETULIA SA ESP",
+      "provider": "EMPRESAS PUBLICAS DE BETULIA SA ESP",
+      "logo": "assets/images/servicios-publicos/logo-204.png"
+    },
+    {
+      "id": "servicios-publicos-0205",
+      "category": "servicios-publicos",
+      "name": "EMPRESAS PUBLICAS DE LA CEJA ESP",
+      "provider": "EMPRESAS PUBLICAS DE LA CEJA ESP",
+      "logo": "assets/images/EMPRESAS PUBLICAS DE LA CEJA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0206",
+      "category": "servicios-publicos",
+      "name": "EMPSA",
+      "provider": "EMPSA",
+      "logo": "assets/images/servicios-publicos/logo-206.png"
+    },
+    {
+      "id": "servicios-publicos-0207",
+      "category": "servicios-publicos",
+      "name": "EMPSAR",
+      "provider": "EMPSAR",
+      "logo": "assets/images/servicios-publicos/logo-207.png"
+    },
+    {
+      "id": "servicios-publicos-0208",
+      "category": "servicios-publicos",
+      "name": "ENELAR",
+      "provider": "ENELAR",
+      "logo": "assets/images/enel.png"
+    },
+    {
+      "id": "servicios-publicos-0209",
+      "category": "servicios-publicos",
+      "name": "ENERGIA CENS EPM",
+      "provider": "ENERGIA CENS EPM",
+      "logo": "assets/images/ENERGIA CENS EPM.png"
+    },
+    {
+      "id": "servicios-publicos-0210",
+      "category": "servicios-publicos",
+      "name": "ENERGIA CENTRAL ELECTRICAS NSTEDER",
+      "provider": "ENERGIA CENTRAL ELECTRICAS NSTEDER",
+      "logo": "assets/images/ENERGIA CENTRAL ELECTRICAS NSTEDER.png"
+    },
+    {
+      "id": "servicios-publicos-0211",
+      "category": "servicios-publicos",
+      "name": "ENERGIA CHEC CALDAS",
+      "provider": "ENERGIA CHEC CALDAS",
+      "logo": "assets/images/ENERGIA CHEC CALDAS.png"
+    },
+    {
+      "id": "servicios-publicos-0212",
+      "category": "servicios-publicos",
+      "name": "ENERGIA ELECTROHUILA SA",
+      "provider": "ENERGIA ELECTROHUILA SA",
+      "logo": "assets/images/ENERGIA ELECTROHUILA SA.png"
+    },
+    {
+      "id": "servicios-publicos-0213",
+      "category": "servicios-publicos",
+      "name": "ENERMAS RECAUDO",
+      "provider": "ENERMAS RECAUDO",
+      "logo": "assets/images/ENERMAS RECAUDO.png"
+    },
+    {
+      "id": "servicios-publicos-0214",
+      "category": "servicios-publicos",
+      "name": "EPC CONCEPCION",
+      "provider": "EPC CONCEPCION",
+      "logo": "assets/images/EPC CONCEPCION.png"
+    },
+    {
+      "id": "servicios-publicos-0215",
+      "category": "servicios-publicos",
+      "name": "EPM NO RECURRENTE",
+      "provider": "EPM NO RECURRENTE",
+      "logo": "assets/images/servicios-publicos/logo-215.png"
+    },
+    {
+      "id": "servicios-publicos-0216",
+      "category": "servicios-publicos",
+      "name": "ESP NOCAIMA",
+      "provider": "ESP NOCAIMA",
+      "logo": "assets/images/ESP NOCAIMA.png"
+    },
+    {
+      "id": "servicios-publicos-0217",
+      "category": "servicios-publicos",
+      "name": "ESP PURIFICA",
+      "provider": "ESP PURIFICA",
+      "logo": "assets/images/ESP PURIFICA.png"
+    },
+    {
+      "id": "servicios-publicos-0218",
+      "category": "servicios-publicos",
+      "name": "ESP SANTA ROSA CAUCA",
+      "provider": "ESP SANTA ROSA CAUCA",
+      "logo": "assets/images/ESP SANTA ROSA CAUCA.png"
+    },
+    {
+      "id": "servicios-publicos-0219",
+      "category": "servicios-publicos",
+      "name": "ESPSIGLOXXI",
+      "provider": "ESPSIGLOXXI",
+      "logo": "assets/images/ESPSIGLOXXI.png"
+    },
+    {
+      "id": "servicios-publicos-0220",
+      "category": "servicios-publicos",
+      "name": "ESPYONDO",
+      "provider": "ESPYONDO",
+      "logo": "assets/images/ESPYONDO.png"
+    },
+    {
+      "id": "servicios-publicos-0221",
+      "category": "servicios-publicos",
+      "name": "ESSA ELECTRIFICADORA DE SANTANDER",
+      "provider": "ESSA ELECTRIFICADORA DE SANTANDER",
+      "logo": "assets/images/ESSA ELECTRIFICADORA DE SANTANDER.png"
+    },
+    {
+      "id": "servicios-publicos-0222",
+      "category": "servicios-publicos",
+      "name": "GASES DE LA GUAJIRA SA ESP",
+      "provider": "GASES DE LA GUAJIRA SA ESP",
+      "logo": "assets/images/servicios-publicos/logo-222.png"
+    },
+    {
+      "id": "servicios-publicos-0223",
+      "category": "servicios-publicos",
+      "name": "Gasguajira",
+      "provider": "Gasguajira",
+      "logo": "assets/images/servicios-publicos/logo-223.png"
+    },
+    {
+      "id": "servicios-publicos-0224",
+      "category": "servicios-publicos",
+      "name": "GAS NATURAL METROGAS B/MANGA",
+      "provider": "GAS NATURAL METROGAS B/MANGA",
+      "logo": "assets/images/GAS NATURAL METROGAS BMANGA.png"
+    },
+    {
+      "id": "servicios-publicos-0225",
+      "category": "servicios-publicos",
+      "name": "GAS NTRAL MONTANGAS 2",
+      "provider": "GAS NTRAL MONTANGAS 2",
+      "logo": "assets/images/Montagas Comercial granel.png"
+    },
+    {
+      "id": "servicios-publicos-0226",
+      "category": "servicios-publicos",
+      "name": "GAS NTRAL SUPER DENARINO SA ESP",
+      "provider": "GAS NTRAL SUPER DENARINO SA ESP",
+      "logo": "assets/images/GAS NTRAL SUPERGAS DE NARINO.png"
+    },
+    {
+      "id": "servicios-publicos-0227",
+      "category": "servicios-publicos",
+      "name": "GAS ZIPA SAS ESP",
+      "provider": "GAS ZIPA SAS ESP",
+      "logo": "assets/images/servicios-publicos/logo-227.png"
+    },
+    {
+      "id": "servicios-publicos-0228",
+      "category": "servicios-publicos",
+      "name": "Hega Sa Esp OTROS CONCEPTOS",
+      "provider": "Hega Sa Esp OTROS CONCEPTOS",
+      "logo": "assets/images/servicios-publicos/logo-228.png"
+    },
+    {
+      "id": "servicios-publicos-0229",
+      "category": "servicios-publicos",
+      "name": "INFIBAGUE PLAZAS DE MERCADO",
+      "provider": "INFIBAGUE PLAZAS DE MERCADO",
+      "logo": "assets/images/servicios-publicos/logo-229.png"
+    },
+    {
+      "id": "servicios-publicos-0230",
+      "category": "servicios-publicos",
+      "name": "INTERASEO AEROPUERTO SAS ESP",
+      "provider": "INTERASEO AEROPUERTO SAS ESP",
+      "logo": "assets/images/ASEO INTERASEO ARCHIPIELAGO SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0231",
+      "category": "servicios-publicos",
+      "name": "INTERASEO SAS ESP",
+      "provider": "INTERASEO SAS ESP",
+      "logo": "assets/images/ASEO INTERASEO ARCHIPIELAGO SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0232",
+      "category": "servicios-publicos",
+      "name": "JUNTA ACUEDUCTO EL ROSARIO",
+      "provider": "JUNTA ACUEDUCTO EL ROSARIO",
+      "logo": "assets/images/JUNTA ACUEDUCTO EL ROSARIO.png"
+    },
+    {
+      "id": "servicios-publicos-0233",
+      "category": "servicios-publicos",
+      "name": "Llanogas Codigo de Barras",
+      "provider": "Llanogas Codigo de Barras",
+      "logo": "assets/images/Llanogas SA ESP.png"
+    },
+    {
+      "id": "servicios-publicos-0234",
+      "category": "servicios-publicos",
+      "name": "Manaure Emp Acueducto Agua Potable",
+      "provider": "Manaure Emp Acueducto Agua Potable",
+      "logo": "assets/images/Manaure Emp Acueducto Agua Potable.png"
+    },
+    {
+      "id": "servicios-publicos-0235",
+      "category": "servicios-publicos",
+      "name": "MISION AMBIENTAL SA",
+      "provider": "MISION AMBIENTAL SA",
+      "logo": "assets/images/MISION AMBIENTAL SA.png"
+    },
+    {
+      "id": "servicios-publicos-0236",
+      "category": "servicios-publicos",
+      "name": "Montagas Municipios",
+      "provider": "Montagas Municipios",
+      "logo": "assets/images/Montagas Comercial granel.png"
+    },
+    {
+      "id": "servicios-publicos-0237",
+      "category": "servicios-publicos",
+      "name": "MPIO DE OICATA SERV PUBL",
+      "provider": "MPIO DE OICATA SERV PUBL",
+      "logo": "assets/images/servicios-publicos/logo-237.png"
+    },
+    {
+      "id": "servicios-publicos-0238",
+      "category": "servicios-publicos",
+      "name": "MPIO DE SILOS SERV PUBLICOS",
+      "provider": "MPIO DE SILOS SERV PUBLICOS",
+      "logo": "assets/images/servicios-publicos/logo-238.png"
+    },
+    {
+      "id": "servicios-publicos-0239",
+      "category": "servicios-publicos",
+      "name": "MPIO DE SORA SERV PUBLICO",
+      "provider": "MPIO DE SORA SERV PUBLICO",
+      "logo": "assets/images/servicios-publicos/logo-239.png"
+    },
+    {
+      "id": "servicios-publicos-0240",
+      "category": "servicios-publicos",
+      "name": "MPIO ICONONZO ACUEDUCTO Y ALCANTARI",
+      "provider": "MPIO ICONONZO ACUEDUCTO Y ALCANTARI",
+      "logo": "assets/images/MPIO ICONONZO ACUEDUCTO Y ALCANTARI.png"
+    },
+    {
+      "id": "servicios-publicos-0241",
+      "category": "servicios-publicos",
+      "name": "MPIO TOTA RECAUDO SERV PUBLICOS",
+      "provider": "MPIO TOTA RECAUDO SERV PUBLICOS",
+      "logo": "assets/images/servicios-publicos/logo-241.png"
+    },
+    {
+      "id": "servicios-publicos-0242",
+      "category": "servicios-publicos",
+      "name": "MUN DE TULUA IMP DE VEHICULOS SERVICIO...",
+      "provider": "MUN DE TULUA IMP DE VEHICULOS SERVICIO...",
+      "logo": "assets/images/servicios-publicos/logo-242.png"
+    },
+    {
+      "id": "servicios-publicos-0243",
+      "category": "servicios-publicos",
+      "name": "MUN TESALIA TRANSPORTE",
+      "provider": "MUN TESALIA TRANSPORTE",
+      "logo": "assets/images/MUN TESALIA TRANSPORTE.png"
+    },
+    {
+      "id": "servicios-publicos-0244",
+      "category": "servicios-publicos",
+      "name": "OPERADORES DE SERVICIO DE LA SIERRA",
+      "provider": "OPERADORES DE SERVICIO DE LA SIERRA",
+      "logo": "assets/images/ACUEDUCTO OPERADORES LA SIERRA SAESP.png"
+    },
+    {
+      "id": "servicios-publicos-0245",
+      "category": "servicios-publicos",
+      "name": "OPERADORES SERVICIO SIERRA SA ESP",
+      "provider": "OPERADORES SERVICIO SIERRA SA ESP",
+      "logo": "assets/images/ACUEDUCTO OPERADORES LA SIERRA SAESP.png"
+    },
+    {
+      "id": "servicios-publicos-0246",
+      "category": "servicios-publicos",
+      "name": "RAYOGAS SA ESP",
+      "provider": "RAYOGAS SA ESP",
+      "logo": "assets/images/servicios-publicos/logo-246.png"
+    },
+    {
+      "id": "servicios-publicos-0247",
+      "category": "servicios-publicos",
+      "name": "RECAUDO AAA AGUAS DE PADILLA",
+      "provider": "RECAUDO AAA AGUAS DE PADILLA",
+      "logo": "assets/images/servicios-publicos/logo-247.png"
+    },
+    {
+      "id": "servicios-publicos-0248",
+      "category": "servicios-publicos",
+      "name": "RECAUDO INSESP",
+      "provider": "RECAUDO INSESP",
+      "logo": "assets/images/servicios-publicos/logo-248.png"
+    },
+    {
+      "id": "servicios-publicos-0249",
+      "category": "servicios-publicos",
+      "name": "RECAUDO SERVICIOS PUBLICOS",
+      "provider": "RECAUDO SERVICIOS PUBLICOS",
+      "logo": "assets/images/servicios-publicos/logo-249.png"
+    },
+    {
+      "id": "servicios-publicos-0250",
+      "category": "servicios-publicos",
+      "name": "San Cayetano servicio acueducto",
+      "provider": "San Cayetano servicio acueducto",
+      "logo": "assets/images/San Cayetano servicio acueducto.png"
+    },
+    {
+      "id": "servicios-publicos-0251",
+      "category": "servicios-publicos",
+      "name": "SERVIAMBIENTAL SA EMP SERV PUBLICOS",
+      "provider": "SERVIAMBIENTAL SA EMP SERV PUBLICOS",
+      "logo": "assets/images/servicios-publicos/logo-251.png"
+    },
+    {
+      "id": "servicios-publicos-0252",
+      "category": "servicios-publicos",
+      "name": "SERVICIOS PUBLICOS ESP LA VEGA",
+      "provider": "SERVICIOS PUBLICOS ESP LA VEGA",
+      "logo": "assets/images/servicios-publicos/logo-252.png"
+    },
+    {
+      "id": "servicios-publicos-0253",
+      "category": "servicios-publicos",
+      "name": "SERVICIOS PUBLICOS MATANZA",
+      "provider": "SERVICIOS PUBLICOS MATANZA",
+      "logo": "assets/images/servicios-publicos/logo-253.png"
+    },
+    {
+      "id": "servicios-publicos-0254",
+      "category": "servicios-publicos",
+      "name": "Servicios Publicos Santuario RDA",
+      "provider": "Servicios Publicos Santuario RDA",
+      "logo": "assets/images/servicios-publicos/logo-254.png"
+    },
+    {
+      "id": "servicios-publicos-0255",
+      "category": "servicios-publicos",
+      "name": "SITIO NUEVO ACUEDUCTO",
+      "provider": "SITIO NUEVO ACUEDUCTO",
+      "logo": "assets/images/servicios-publicos/logo-255.png"
+    },
+    {
+      "id": "servicios-publicos-0256",
+      "category": "servicios-publicos",
+      "name": "Socios Suscriptores Cartagena",
+      "provider": "Socios Suscriptores Cartagena",
+      "logo": "assets/images/servicios-publicos/logo-256.png"
+    },
+    {
+      "id": "servicios-publicos-0257",
+      "category": "servicios-publicos",
+      "name": "TELEFONO EMPRESA DE BUGA",
+      "provider": "TELEFONO EMPRESA DE BUGA",
+      "logo": "assets/images/servicios-publicos/logo-257.png"
+    },
+    {
+      "id": "servicios-publicos-0258",
+      "category": "servicios-publicos",
+      "name": "TELEFONO EMP TELECOMUNIC BOGOTA B2C",
+      "provider": "TELEFONO EMP TELECOMUNIC BOGOTA B2C",
+      "logo": "assets/images/TELEFONO ETB EMPRESA BOGOTA.png"
+    },
+    {
+      "id": "servicios-publicos-0259",
+      "category": "servicios-publicos",
+      "name": "TELEFONO ETB LLANOS",
+      "provider": "TELEFONO ETB LLANOS",
+      "logo": "assets/images/TELEFONO ETB EMPRESA BOGOTA.png"
+    },
+    {
+      "id": "servicios-publicos-0260",
+      "category": "servicios-publicos",
+      "name": "TELEGRARDOT CALLE 15 NO 32 591",
+      "provider": "TELEGRARDOT CALLE 15 NO 32 591",
+      "logo": "assets/images/servicios-publicos/logo-260.png"
+    },
+    {
+      "id": "servicios-publicos-0261",
+      "category": "servicios-publicos",
+      "name": "TIGO UNE 100",
+      "provider": "TIGO UNE 100",
+      "logo": "assets/images/TIGO UNE 300.png"
+    },
+    {
+      "id": "servicios-publicos-0262",
+      "category": "servicios-publicos",
+      "name": "TIGO UNE 600",
+      "provider": "TIGO UNE 600",
+      "logo": "assets/images/TIGO UNE 300.png"
+    },
+    {
+      "id": "servicios-publicos-0263",
+      "category": "servicios-publicos",
+      "name": "TIGO UNE 700",
+      "provider": "TIGO UNE 700",
+      "logo": "assets/images/TIGO UNE 300.png"
+    },
+    {
+      "id": "servicios-publicos-0264",
+      "category": "servicios-publicos",
+      "name": "TIGO UNE 800",
+      "provider": "TIGO UNE 800",
+      "logo": "assets/images/TIGO UNE 300.png"
+    },
+    {
+      "id": "servicios-publicos-0265",
+      "category": "servicios-publicos",
+      "name": "URBASER COLOMBIA",
+      "provider": "URBASER COLOMBIA",
+      "logo": "assets/images/urbaser.png"
+    },
+    {
+      "id": "servicios-publicos-0266",
+      "category": "servicios-publicos",
+      "name": "Urbaser La Tebaida",
+      "provider": "Urbaser La Tebaida",
+      "logo": "assets/images/urbaser.png"
+    },
+    {
+      "id": "servicios-publicos-0267",
+      "category": "servicios-publicos",
+      "name": "Urbaser Montenegro",
+      "provider": "Urbaser Montenegro",
+      "logo": "assets/images/urbaser.png"
+    },
+    {
+      "id": "servicios-publicos-0268",
+      "category": "servicios-publicos",
+      "name": "URBASER POPAYAN SA ESP",
+      "provider": "URBASER POPAYAN SA ESP",
+      "logo": "assets/images/urbaser.png"
+    },
+    {
+      "id": "obligaciones-aval-0001",
+      "category": "obligaciones-aval",
+      "name": "BANCO DE BOGOTÁ - LIBRE DESTINO",
+      "provider": "Banco de Bogotá",
+      "logo": "assets/images/Banco de Bogota.webp"
+    },
+    {
+      "id": "obligaciones-aval-0002",
+      "category": "obligaciones-aval",
+      "name": "BANCO DE BOGOTÁ - OTROS CRÉDITOS",
+      "provider": "Banco de Bogotá",
+      "logo": "assets/images/Banco de Bogota.webp"
+    },
+    {
+      "id": "obligaciones-aval-0003",
+      "category": "obligaciones-aval",
+      "name": "BANCO DE BOGOTÁ - CRÉDITO HIPOTECARIO",
+      "provider": "Banco de Bogotá",
+      "logo": "assets/images/Banco de Bogota.webp"
+    },
+    {
+      "id": "obligaciones-aval-0004",
+      "category": "obligaciones-aval",
+      "name": "AV VILLAS - TARJETA DE CRÉDITO MASTERCARD",
+      "provider": "AV Villas",
+      "logo": "assets/images/av villas.png"
+    },
+    {
+      "id": "obligaciones-aval-0005",
+      "category": "obligaciones-aval",
+      "name": "BANCO DE OCCIDENTE - PAGO TARJETA DE CRÉDITO",
+      "provider": "Banco de Occidente",
+      "logo": "assets/images/Banco de Occidente.png"
+    },
+    {
+      "id": "obligaciones-aval-0006",
+      "category": "obligaciones-aval",
+      "name": "Banco de Occidente - Préstamo Personal, Libranza",
+      "provider": "Banco de Occidente",
+      "logo": "assets/images/Banco de Occidente.png"
+    },
+    {
+      "id": "obligaciones-aval-0007",
+      "category": "obligaciones-aval",
+      "name": "BANCO DE OCCIDENTE - PAGO TARJETA DE CRÉDITO",
+      "provider": "Banco de Occidente",
+      "logo": "assets/images/Banco de Occidente.png"
+    },
+    {
+      "id": "obligaciones-aval-0008",
+      "category": "obligaciones-aval",
+      "name": "BANCO DE BOGOTÁ - TARJETA DE CRÉDITO VISA",
+      "provider": "Banco de Bogotá",
+      "logo": "assets/images/Banco de Bogota.webp"
+    },
+    {
+      "id": "obligaciones-aval-0009",
+      "category": "obligaciones-aval",
+      "name": "AV VILLAS - TARJETA DE CRÉDITO VISA",
+      "provider": "AV Villas",
+      "logo": "assets/images/av villas.png"
+    },
+    {
+      "id": "obligaciones-aval-0010",
+      "category": "obligaciones-aval",
+      "name": "AV VILLAS - CRÉDITO HIPOTECARIO",
+      "provider": "AV Villas",
+      "logo": "assets/images/av villas.png"
+    },
+    {
+      "id": "obligaciones-aval-0011",
+      "category": "obligaciones-aval",
+      "name": "AV VILLAS - CRÉDITO PERSONAL - COMERCIAL",
+      "provider": "AV Villas",
+      "logo": "assets/images/av villas.png"
+    },
+    {
+      "id": "obligaciones-aval-0012",
+      "category": "obligaciones-aval",
+      "name": "BANCO POPULAR - TARJETA DE CRÉDITO VISA",
+      "provider": "Banco Popular",
+      "logo": "assets/images/Banco Popular.webp"
+    },
+    {
+      "id": "obligaciones-aval-0013",
+      "category": "obligaciones-aval",
+      "name": "Banco de Occidente Leasing Vivienda y Constructor",
+      "provider": "Banco de Occidente",
+      "logo": "assets/images/Banco de Occidente.png"
+    },
+    {
+      "id": "obligaciones-aval-0014",
+      "category": "obligaciones-aval",
+      "name": "BANCO DE BOGOTÁ - VEHÍCULO",
+      "provider": "Banco de Bogotá",
+      "logo": "assets/images/Banco de Bogota.webp"
+    },
+    {
+      "id": "obligaciones-aval-0015",
+      "category": "obligaciones-aval",
+      "name": "Acuerdos de Pago Banco Bta",
+      "provider": "Banco de Bogotá",
+      "logo": "assets/images/Banco de Bogota.webp"
+    },
+    {
+      "id": "obligaciones-aval-0016",
+      "category": "obligaciones-aval",
+      "name": "AV VILLAS - OTROS CRÉDITOS",
+      "provider": "AV Villas",
+      "logo": "assets/images/av villas.png"
+    },
+    {
+      "id": "obligaciones-aval-0017",
+      "category": "obligaciones-aval",
+      "name": "BANCO DE BOGOTÁ - CREDISERVICE",
+      "provider": "Banco de Bogotá",
+      "logo": "assets/images/Banco de Bogota.webp"
+    },
+    {
+      "id": "obligaciones-aval-0018",
+      "category": "obligaciones-aval",
+      "name": "BANCO DE BOGOTÁ - TARJETA DE CRÉDITO MASTERCARD",
+      "provider": "Banco de Bogotá",
+      "logo": "assets/images/Banco de Bogota.webp"
+    },
+    {
+      "id": "obligaciones-aval-0019",
+      "category": "obligaciones-aval",
+      "name": "BANCO DE BOGOTÁ - LIBRANZA",
+      "provider": "Banco de Bogotá",
+      "logo": "assets/images/Banco de Bogota.webp"
+    },
+    {
+      "id": "obligaciones-aval-0020",
+      "category": "obligaciones-aval",
+      "name": "Banco de Occidente - Ordinaria - Fomento",
+      "provider": "Banco de Occidente",
+      "logo": "assets/images/Banco de Occidente.png"
+    },
+    {
+      "id": "obligaciones-aval-0021",
+      "category": "obligaciones-aval",
+      "name": "Banco Popular Libre Destino Leasing Comercial",
+      "provider": "Banco Popular",
+      "logo": "assets/images/Banco Popular.webp"
+    },
+    {
+      "id": "obligaciones-aval-0022",
+      "category": "obligaciones-aval",
+      "name": "RECAUDO CARTERA CASTIGADA B OCCIDENTE",
+      "provider": "Banco de Occidente",
+      "logo": "assets/images/Banco de Occidente.png"
+    },
+    {
+      "id": "obligaciones-aval-0023",
+      "category": "obligaciones-aval",
+      "name": "AV VILLAS CRÉDITO FACTORING",
+      "provider": "AV Villas",
+      "logo": "assets/images/av villas.png"
+    },
+    {
+      "id": "obligaciones-aval-0024",
+      "category": "obligaciones-aval",
+      "name": "AV VILLAS-CREDIFAMILIA",
+      "provider": "AV Villas",
+      "logo": "assets/images/av villas.png"
+    },
+    {
+      "id": "obligaciones-aval-0025",
+      "category": "obligaciones-aval",
+      "name": "BANCO POPULAR NEGOCIACIONES",
+      "provider": "Banco Popular",
+      "logo": "assets/images/Banco Popular.webp"
+    },
+    {
+      "id": "obligaciones-aval-0026",
+      "category": "obligaciones-aval",
+      "name": "AV VILLAS - DINERO EXTRA",
+      "provider": "AV Villas",
+      "logo": "assets/images/av villas.png"
+    },
+    {
+      "id": "obligaciones-aval-0027",
+      "category": "obligaciones-aval",
+      "name": "AV VILLAS RECARGA TU CUENTA",
+      "provider": "AV Villas",
+      "logo": "assets/images/av villas.png"
+    },
+    {
+      "id": "obligaciones-aval-0028",
+      "category": "obligaciones-aval",
+      "name": "LIBRANZA BANCO POPULAR",
+      "provider": "Banco Popular",
+      "logo": "assets/images/Banco Popular.webp"
+    },
+    {
+      "id": "obligaciones-aval-0029",
+      "category": "obligaciones-aval",
+      "name": "BANCO DE OCCIDENTE - CRÉDITO ROTATIVO",
+      "provider": "Banco de Occidente",
+      "logo": "assets/images/Banco de Occidente.png"
+    },
+    {
+      "id": "obligaciones-aval-0030",
+      "category": "obligaciones-aval",
+      "name": "Banco Popular EPIK",
+      "provider": "Banco Popular",
+      "logo": "assets/images/Banco Popular.webp"
+    },
+    {
+      "id": "obligaciones-aval-0031",
+      "category": "obligaciones-aval",
+      "name": "BANCO DE BOGOTÁ - ADELANTO DE NÓMINA",
+      "provider": "Banco de Bogotá",
+      "logo": "assets/images/Banco de Bogota.webp"
+    },
+    {
+      "id": "obligaciones-aval-0032",
+      "category": "obligaciones-aval",
+      "name": "BDO FTLBZ",
+      "provider": "Banco de Occidente",
+      "logo": "assets/images/Banco de Occidente.png"
+    },
+    {
+      "id": "obligaciones-aval-0033",
+      "category": "obligaciones-aval",
+      "name": "PAGO TC BANCO POPULAR PAGO MÍNIMO",
+      "provider": "Banco Popular",
+      "logo": "assets/images/Banco Popular.webp"
+    },
+    {
+      "id": "obligaciones-aval-0034",
+      "category": "obligaciones-aval",
+      "name": "Leasing Operativo AV Villas",
+      "provider": "AV Villas",
+      "logo": "assets/images/av villas.png"
+    },
+    {
+      "id": "obligaciones-aval-0035",
+      "category": "obligaciones-aval",
+      "name": "BANCO DE BOGOTÁ - CREDIESTUDIANTIL",
+      "provider": "Banco de Bogotá",
+      "logo": "assets/images/Banco de Bogota.webp"
+    },
+    {
+      "id": "obligaciones-aval-0036",
+      "category": "obligaciones-aval",
+      "name": "Banco de Bogotá - CeroPay",
+      "provider": "Banco de Bogotá",
+      "logo": "assets/images/Banco de Bogota.webp"
+    },
+    {
+      "id": "obligaciones-aval-0037",
+      "category": "obligaciones-aval",
+      "name": "BANCO DE OCCIDENTE - UNIVERSIDAD GARANTIZADA",
+      "provider": "Banco de Occidente",
+      "logo": "assets/images/Banco de Occidente.png"
+    },
+    {
+      "id": "obligaciones-aval-0038",
+      "category": "obligaciones-aval",
+      "name": "Banco de Occidente Préstamo Dinámico",
+      "provider": "Banco de Occidente",
+      "logo": "assets/images/Banco de Occidente.png"
+    }
+  ]
+}
